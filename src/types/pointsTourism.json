@@ -1,0 +1,3735 @@
+{
+    "data": [
+      {
+        "id": 2,
+        "attributes": {
+          "id_point": "1",
+          "uuid": "jardin-botanico-antioquia",
+          "name": "Járdin Botánico Medellin",
+          "description": null,
+          "location": {
+            "nombre": "Jardín Botánico",
+            "ubicacion": "Medellín",
+            "descripcion": "Jardín botánico con colecciones de plantas tropicales, un mariposario, un lago y senderos para caminar.",
+            "departamento": "Antioquia",
+            "clima": "Tropical de montaña",
+            "latitud": 6.270644528086317,
+            "longitud": -75.56350023100113,
+            "icon": "/uploads/parques_80a10883e6.webp?updated_at=2023-03-28T21:41:03.370Z",
+            "type": "Parque Natural"
+          },
+          "state": null,
+          "data": null,
+          "deleted": false,
+          "created": null,
+          "updated": null,
+          "tags": "parques",
+          "createdAt": "2023-03-27T17:21:45.137Z",
+          "updatedAt": "2023-06-11T17:51:07.813Z",
+          "publishedAt": "2023-03-27T17:21:48.180Z",
+          "locale": "es-CO",
+          "gMapsPoint": null,
+          "places": {
+            "data": [
+              {
+                "id": 4,
+                "attributes": {
+                  "id_place": "4",
+                  "uuid": "cundi",
+                  "type": "departamento cundinamarca",
+                  "name": "Cundinamarca",
+                  "description": null,
+                  "location": {
+                    "departamento": "Cundinamarca",
+                    "latitud": "4.673057",
+                    "longitud": "-74.075458"
+                  },
+                  "data": {
+                    "geoJSON": "/uploads/colombia_cundinamarca_24895e5b21.geojson"
+                  },
+                  "deleted": false,
+                  "created": null,
+                  "updated": null,
+                  "tags": null,
+                  "createdAt": "2023-03-27T17:16:12.666Z",
+                  "updatedAt": "2023-07-08T14:36:08.343Z",
+                  "publishedAt": "2023-03-27T17:16:15.116Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "media": {
+            "data": [
+              {
+                "id": 246,
+                "attributes": {
+                  "name": "jardin-botanico-medellin.jpeg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 1536,
+                  "height": 1152,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_jardin-botanico-medellin.jpeg",
+                      "hash": "thumbnail_jardin_botanico_medellin_a53d1cecaf",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 208,
+                      "height": 156,
+                      "size": 9.43,
+                      "url": "/uploads/thumbnail_jardin_botanico_medellin_a53d1cecaf.jpeg"
+                    },
+                    "small": {
+                      "name": "small_jardin-botanico-medellin.jpeg",
+                      "hash": "small_jardin_botanico_medellin_a53d1cecaf",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 375,
+                      "size": 51.2,
+                      "url": "/uploads/small_jardin_botanico_medellin_a53d1cecaf.jpeg"
+                    },
+                    "medium": {
+                      "name": "medium_jardin-botanico-medellin.jpeg",
+                      "hash": "medium_jardin_botanico_medellin_a53d1cecaf",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 750,
+                      "height": 563,
+                      "size": 119.47,
+                      "url": "/uploads/medium_jardin_botanico_medellin_a53d1cecaf.jpeg"
+                    },
+                    "large": {
+                      "name": "large_jardin-botanico-medellin.jpeg",
+                      "hash": "large_jardin_botanico_medellin_a53d1cecaf",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 1000,
+                      "height": 750,
+                      "size": 208.48,
+                      "url": "/uploads/large_jardin_botanico_medellin_a53d1cecaf.jpeg"
+                    }
+                  },
+                  "hash": "jardin_botanico_medellin_a53d1cecaf",
+                  "ext": ".jpeg",
+                  "mime": "image/jpeg",
+                  "size": 450.59,
+                  "url": "/uploads/jardin_botanico_medellin_a53d1cecaf.jpeg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-06-11T17:50:58.959Z",
+                  "updatedAt": "2023-06-11T17:50:58.959Z"
+                }
+              }
+            ]
+          },
+          "routes": {
+            "data": [
+              {
+                "id": 1,
+                "attributes": {
+                  "id_route": "1",
+                  "uuid": "bogota-medellin-route",
+                  "name": "Ruta Bogota - Medellin",
+                  "duration": null,
+                  "description": null,
+                  "distance": null,
+                  "data": {},
+                  "state": null,
+                  "created": null,
+                  "updated": null,
+                  "deleted": false,
+                  "tags": null,
+                  "createdAt": "2023-06-27T23:36:15.382Z",
+                  "updatedAt": "2023-06-28T01:18:53.429Z",
+                  "publishedAt": "2023-06-27T23:53:38.946Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "subcategories": {
+            "data": [
+              {
+                "id": 42,
+                "attributes": {
+                  "id_subcategory": "42",
+                  "uuid": "subcategory-42",
+                  "name": "Parques Naturales",
+                  "description": null,
+                  "deleted": false,
+                  "created": "2023-03-29T05:00:00.000Z",
+                  "updated": "2023-03-29T05:00:00.000Z",
+                  "createdAt": "2023-03-29T16:10:49.079Z",
+                  "updatedAt": "2023-03-29T16:11:02.204Z",
+                  "publishedAt": "2023-03-29T16:11:02.139Z",
+                  "locale": "es-CO",
+                  "data": null
+                }
+              }
+            ]
+          },
+          "seo": [],
+          "metasocial": [],
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 3,
+        "attributes": {
+          "id_point": "2",
+          "uuid": "museo-antuioqia-1",
+          "name": "Museo de Antioquia",
+          "description": null,
+          "location": {
+            "nombre": "Museo de Antioquia",
+            "ubicacion": "Medellín",
+            "descripcion": "Museo de arte y historia con colecciones de arte colonial, contemporáneo y precolombino, así como de botánica y geología.",
+            "departamento": "Antioquia",
+            "clima": "Tropical de montaña",
+            "latitud": 6.252533405627228,
+            "longitud": -75.56912413900984,
+            "icon": "/uploads/museos_c515664a6d.webp?updated_at=2023-03-28T21:41:02.989Z",
+            "type": "Museo"
+          },
+          "state": " ",
+          "data": null,
+          "deleted": false,
+          "created": null,
+          "updated": null,
+          "tags": "museos",
+          "createdAt": "2023-03-27T17:22:33.129Z",
+          "updatedAt": "2023-06-11T17:53:28.608Z",
+          "publishedAt": "2023-03-27T17:22:37.112Z",
+          "locale": "es-CO",
+          "gMapsPoint": null,
+          "places": {
+            "data": [
+              {
+                "id": 3,
+                "attributes": {
+                  "id_place": "3",
+                  "uuid": "antioquia",
+                  "type": "departamento antioquia",
+                  "name": "Antioquia",
+                  "description": null,
+                  "location": {
+                    "departamento": "Antioquia",
+                    "latitud": "6.27053",
+                    "longitud": "-75.5722"
+                  },
+                  "data": {
+                    "geoJSON": "/uploads/colombia_antioquia_08bdb682d6.geojson"
+                  },
+                  "deleted": false,
+                  "created": null,
+                  "updated": null,
+                  "tags": null,
+                  "createdAt": "2023-03-27T17:15:32.812Z",
+                  "updatedAt": "2023-07-08T14:35:51.318Z",
+                  "publishedAt": "2023-03-27T17:15:36.043Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "media": {
+            "data": [
+              {
+                "id": 247,
+                "attributes": {
+                  "name": "museo-antioquia.jpeg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 384,
+                  "height": 512,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_museo-antioquia.jpeg",
+                      "hash": "thumbnail_museo_antioquia_6501fa5df1",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 117,
+                      "height": 156,
+                      "size": 6.95,
+                      "url": "/uploads/thumbnail_museo_antioquia_6501fa5df1.jpeg"
+                    },
+                    "small": {
+                      "name": "small_museo-antioquia.jpeg",
+                      "hash": "small_museo_antioquia_6501fa5df1",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 375,
+                      "height": 500,
+                      "size": 55.6,
+                      "url": "/uploads/small_museo_antioquia_6501fa5df1.jpeg"
+                    }
+                  },
+                  "hash": "museo_antioquia_6501fa5df1",
+                  "ext": ".jpeg",
+                  "mime": "image/jpeg",
+                  "size": 58.54,
+                  "url": "/uploads/museo_antioquia_6501fa5df1.jpeg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-06-11T17:53:12.920Z",
+                  "updatedAt": "2023-06-11T17:53:12.920Z"
+                }
+              }
+            ]
+          },
+          "routes": {
+            "data": [
+              {
+                "id": 1,
+                "attributes": {
+                  "id_route": "1",
+                  "uuid": "bogota-medellin-route",
+                  "name": "Ruta Bogota - Medellin",
+                  "duration": null,
+                  "description": null,
+                  "distance": null,
+                  "data": {},
+                  "state": null,
+                  "created": null,
+                  "updated": null,
+                  "deleted": false,
+                  "tags": null,
+                  "createdAt": "2023-06-27T23:36:15.382Z",
+                  "updatedAt": "2023-06-28T01:18:53.429Z",
+                  "publishedAt": "2023-06-27T23:53:38.946Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "subcategories": {
+            "data": [
+              {
+                "id": 40,
+                "attributes": {
+                  "id_subcategory": "40",
+                  "uuid": "subcategory-40",
+                  "name": "Museos y Bibliotecas",
+                  "description": null,
+                  "deleted": false,
+                  "created": "2023-03-29T05:00:00.000Z",
+                  "updated": "2023-03-29T05:00:00.000Z",
+                  "createdAt": "2023-03-29T16:07:43.971Z",
+                  "updatedAt": "2023-03-29T16:07:51.405Z",
+                  "publishedAt": "2023-03-29T16:07:51.339Z",
+                  "locale": "es-CO",
+                  "data": null
+                }
+              }
+            ]
+          },
+          "seo": [],
+          "metasocial": [],
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 4,
+        "attributes": {
+          "id_point": "3",
+          "uuid": "parque-explora",
+          "name": "Parque Explora Medellin",
+          "description": null,
+          "location": {
+            "nombre": "Parque Explora",
+            "ubicacion": "Medellín",
+            "descripcion": "Parque temático interactivo con exhibiciones sobre ciencia, tecnología, ecología y biodiversidad, así como un acuario y un planetario.",
+            "departamento": "Antioquia",
+            "clima": "Tropical de montaña",
+            "latitud": 6.27114072011905,
+            "longitud": -75.56548462024125,
+            "icon": "/uploads/parques_80a10883e6.webp?updated_at=2023-03-28T21:41:03.370Z",
+            "type": "Parque Natural"
+          },
+          "state": null,
+          "data": null,
+          "deleted": false,
+          "created": null,
+          "updated": null,
+          "tags": null,
+          "createdAt": "2023-03-27T17:23:20.182Z",
+          "updatedAt": "2023-06-11T17:55:13.064Z",
+          "publishedAt": "2023-03-27T17:23:23.064Z",
+          "locale": "es-CO",
+          "gMapsPoint": null,
+          "places": {
+            "data": [
+              {
+                "id": 3,
+                "attributes": {
+                  "id_place": "3",
+                  "uuid": "antioquia",
+                  "type": "departamento antioquia",
+                  "name": "Antioquia",
+                  "description": null,
+                  "location": {
+                    "departamento": "Antioquia",
+                    "latitud": "6.27053",
+                    "longitud": "-75.5722"
+                  },
+                  "data": {
+                    "geoJSON": "/uploads/colombia_antioquia_08bdb682d6.geojson"
+                  },
+                  "deleted": false,
+                  "created": null,
+                  "updated": null,
+                  "tags": null,
+                  "createdAt": "2023-03-27T17:15:32.812Z",
+                  "updatedAt": "2023-07-08T14:35:51.318Z",
+                  "publishedAt": "2023-03-27T17:15:36.043Z",
+                  "locale": "es-CO"
+                }
+              },
+              {
+                "id": 33,
+                "attributes": {
+                  "id_place": "33",
+                  "uuid": "ciudad-medellin",
+                  "type": "ciudad medellin ",
+                  "name": "Medellín",
+                  "description": null,
+                  "location": {
+                    "ciudad": "Medellín",
+                    "latitud": "6.2520465719472185",
+                    "longitud": "-75.57984359793085"
+                  },
+                  "data": {
+                    "geoJSON": "/uploads/medellin_4ba77f2941.geojson"
+                  },
+                  "deleted": null,
+                  "created": null,
+                  "updated": null,
+                  "tags": null,
+                  "createdAt": "2023-07-15T16:08:27.008Z",
+                  "updatedAt": "2023-07-15T18:55:04.904Z",
+                  "publishedAt": "2023-07-15T16:08:30.524Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "media": {
+            "data": [
+              {
+                "id": 248,
+                "attributes": {
+                  "name": "parque-explora-medellin.jpeg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 516,
+                  "height": 290,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_parque-explora-medellin.jpeg",
+                      "hash": "thumbnail_parque_explora_medellin_2478a54de1",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 245,
+                      "height": 138,
+                      "size": 13.11,
+                      "url": "/uploads/thumbnail_parque_explora_medellin_2478a54de1.jpeg"
+                    },
+                    "small": {
+                      "name": "small_parque-explora-medellin.jpeg",
+                      "hash": "small_parque_explora_medellin_2478a54de1",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 281,
+                      "size": 46.85,
+                      "url": "/uploads/small_parque_explora_medellin_2478a54de1.jpeg"
+                    }
+                  },
+                  "hash": "parque_explora_medellin_2478a54de1",
+                  "ext": ".jpeg",
+                  "mime": "image/jpeg",
+                  "size": 51.13,
+                  "url": "/uploads/parque_explora_medellin_2478a54de1.jpeg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-06-11T17:55:06.859Z",
+                  "updatedAt": "2023-06-11T17:55:06.859Z"
+                }
+              }
+            ]
+          },
+          "routes": {
+            "data": [
+              {
+                "id": 1,
+                "attributes": {
+                  "id_route": "1",
+                  "uuid": "bogota-medellin-route",
+                  "name": "Ruta Bogota - Medellin",
+                  "duration": null,
+                  "description": null,
+                  "distance": null,
+                  "data": {},
+                  "state": null,
+                  "created": null,
+                  "updated": null,
+                  "deleted": false,
+                  "tags": null,
+                  "createdAt": "2023-06-27T23:36:15.382Z",
+                  "updatedAt": "2023-06-28T01:18:53.429Z",
+                  "publishedAt": "2023-06-27T23:53:38.946Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "subcategories": {
+            "data": [
+              {
+                "id": 42,
+                "attributes": {
+                  "id_subcategory": "42",
+                  "uuid": "subcategory-42",
+                  "name": "Parques Naturales",
+                  "description": null,
+                  "deleted": false,
+                  "created": "2023-03-29T05:00:00.000Z",
+                  "updated": "2023-03-29T05:00:00.000Z",
+                  "createdAt": "2023-03-29T16:10:49.079Z",
+                  "updatedAt": "2023-03-29T16:11:02.204Z",
+                  "publishedAt": "2023-03-29T16:11:02.139Z",
+                  "locale": "es-CO",
+                  "data": null
+                }
+              }
+            ]
+          },
+          "seo": [],
+          "metasocial": [],
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 5,
+        "attributes": {
+          "id_point": "4",
+          "uuid": "catedral-basilica-santafe-antioquia",
+          "name": "Catedral Basílica Metropolitana de la Inmaculada Concepción",
+          "description": null,
+          "location": {
+            "nombre": "Catedral Basílica Metropolitana de la Inmaculada Concepción",
+            "ubicacion": "Santa Fe de Antioquia",
+            "descripcion": "Catedral de estilo colonial con una fachada blanca y una cúpula de tejas rojas.",
+            "departamento": "Antioquia",
+            "clima": "Tropical de montaña",
+            "latitud": 6.5570818079127795,
+            "longitud": -75.82688970268956,
+            "icon": "/uploads/maravillas_c3545982d8.webp?updated_at=2023-03-28T21:41:04.557Z",
+            "type": "Lugar turistico"
+          },
+          "state": null,
+          "data": null,
+          "deleted": false,
+          "created": null,
+          "updated": null,
+          "tags": null,
+          "createdAt": "2023-03-27T17:25:38.594Z",
+          "updatedAt": "2023-06-11T17:57:18.708Z",
+          "publishedAt": "2023-03-27T17:26:37.750Z",
+          "locale": "es-CO",
+          "gMapsPoint": null,
+          "places": {
+            "data": [
+              {
+                "id": 3,
+                "attributes": {
+                  "id_place": "3",
+                  "uuid": "antioquia",
+                  "type": "departamento antioquia",
+                  "name": "Antioquia",
+                  "description": null,
+                  "location": {
+                    "departamento": "Antioquia",
+                    "latitud": "6.27053",
+                    "longitud": "-75.5722"
+                  },
+                  "data": {
+                    "geoJSON": "/uploads/colombia_antioquia_08bdb682d6.geojson"
+                  },
+                  "deleted": false,
+                  "created": null,
+                  "updated": null,
+                  "tags": null,
+                  "createdAt": "2023-03-27T17:15:32.812Z",
+                  "updatedAt": "2023-07-08T14:35:51.318Z",
+                  "publishedAt": "2023-03-27T17:15:36.043Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "media": {
+            "data": [
+              {
+                "id": 249,
+                "attributes": {
+                  "name": "catedral-basilica-sntafe-antoquia.jpeg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 1284,
+                  "height": 1270,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_catedral-basilica-sntafe-antoquia.jpeg",
+                      "hash": "thumbnail_catedral_basilica_sntafe_antoquia_abe4f74884",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 158,
+                      "height": 156,
+                      "size": 7.91,
+                      "url": "/uploads/thumbnail_catedral_basilica_sntafe_antoquia_abe4f74884.jpeg"
+                    },
+                    "medium": {
+                      "name": "medium_catedral-basilica-sntafe-antoquia.jpeg",
+                      "hash": "medium_catedral_basilica_sntafe_antoquia_abe4f74884",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 750,
+                      "height": 742,
+                      "size": 152.6,
+                      "url": "/uploads/medium_catedral_basilica_sntafe_antoquia_abe4f74884.jpeg"
+                    },
+                    "large": {
+                      "name": "large_catedral-basilica-sntafe-antoquia.jpeg",
+                      "hash": "large_catedral_basilica_sntafe_antoquia_abe4f74884",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 1000,
+                      "height": 989,
+                      "size": 263.8,
+                      "url": "/uploads/large_catedral_basilica_sntafe_antoquia_abe4f74884.jpeg"
+                    },
+                    "small": {
+                      "name": "small_catedral-basilica-sntafe-antoquia.jpeg",
+                      "hash": "small_catedral_basilica_sntafe_antoquia_abe4f74884",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 495,
+                      "size": 69.75,
+                      "url": "/uploads/small_catedral_basilica_sntafe_antoquia_abe4f74884.jpeg"
+                    }
+                  },
+                  "hash": "catedral_basilica_sntafe_antoquia_abe4f74884",
+                  "ext": ".jpeg",
+                  "mime": "image/jpeg",
+                  "size": 418.26,
+                  "url": "/uploads/catedral_basilica_sntafe_antoquia_abe4f74884.jpeg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-06-11T17:57:09.845Z",
+                  "updatedAt": "2023-06-11T17:57:09.845Z"
+                }
+              }
+            ]
+          },
+          "routes": {
+            "data": []
+          },
+          "subcategories": {
+            "data": [
+              {
+                "id": 8,
+                "attributes": {
+                  "id_subcategory": "8",
+                  "uuid": "subcategory-8",
+                  "name": "Lugares turistico",
+                  "description": null,
+                  "deleted": false,
+                  "created": "2023-03-25T05:00:00.000Z",
+                  "updated": "2023-03-25T05:00:00.000Z",
+                  "createdAt": "2023-03-25T18:02:51.182Z",
+                  "updatedAt": "2023-07-05T23:03:50.518Z",
+                  "publishedAt": "2023-03-25T18:02:55.400Z",
+                  "locale": "es-CO",
+                  "data": null
+                }
+              }
+            ]
+          },
+          "seo": [],
+          "metasocial": [],
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 6,
+        "attributes": {
+          "id_point": "5",
+          "uuid": "puente-de-occidente",
+          "name": "Puente de Occidente",
+          "description": null,
+          "location": {
+            "nombre": "Puente de Occidente",
+            "ubicacion": "Santa Fe de Antioquia",
+            "descripcion": "Puente colgante de hierro construido en 1887 que cruza el río Cauca.",
+            "departamento": "Antioquia",
+            "clima": "Tropical de montaña",
+            "latitud": 6.5780635829366645,
+            "longitud": -75.79844049052436,
+            "icon": "/uploads/maravillas_c3545982d8.webp?updated_at=2023-03-28T21:41:04.557Z",
+            "type": "Lugar turistico"
+          },
+          "state": null,
+          "data": null,
+          "deleted": false,
+          "created": null,
+          "updated": null,
+          "tags": null,
+          "createdAt": "2023-03-27T17:27:56.619Z",
+          "updatedAt": "2023-06-11T17:44:37.585Z",
+          "publishedAt": "2023-03-27T17:28:02.001Z",
+          "locale": "es-CO",
+          "gMapsPoint": null,
+          "places": {
+            "data": [
+              {
+                "id": 3,
+                "attributes": {
+                  "id_place": "3",
+                  "uuid": "antioquia",
+                  "type": "departamento antioquia",
+                  "name": "Antioquia",
+                  "description": null,
+                  "location": {
+                    "departamento": "Antioquia",
+                    "latitud": "6.27053",
+                    "longitud": "-75.5722"
+                  },
+                  "data": {
+                    "geoJSON": "/uploads/colombia_antioquia_08bdb682d6.geojson"
+                  },
+                  "deleted": false,
+                  "created": null,
+                  "updated": null,
+                  "tags": null,
+                  "createdAt": "2023-03-27T17:15:32.812Z",
+                  "updatedAt": "2023-07-08T14:35:51.318Z",
+                  "publishedAt": "2023-03-27T17:15:36.043Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "media": {
+            "data": [
+              {
+                "id": 245,
+                "attributes": {
+                  "name": "Screenshot_20201125_115110.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 406,
+                  "height": 258,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_Screenshot_20201125_115110.jpg",
+                      "hash": "thumbnail_Screenshot_20201125_115110_dcc397e3f1",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 245,
+                      "height": 156,
+                      "size": 12.25,
+                      "url": "/uploads/thumbnail_Screenshot_20201125_115110_dcc397e3f1.jpg"
+                    }
+                  },
+                  "hash": "Screenshot_20201125_115110_dcc397e3f1",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 31.61,
+                  "url": "/uploads/Screenshot_20201125_115110_dcc397e3f1.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-06-11T17:44:15.674Z",
+                  "updatedAt": "2023-06-11T17:44:15.674Z"
+                }
+              }
+            ]
+          },
+          "routes": {
+            "data": []
+          },
+          "subcategories": {
+            "data": [
+              {
+                "id": 8,
+                "attributes": {
+                  "id_subcategory": "8",
+                  "uuid": "subcategory-8",
+                  "name": "Lugares turistico",
+                  "description": null,
+                  "deleted": false,
+                  "created": "2023-03-25T05:00:00.000Z",
+                  "updated": "2023-03-25T05:00:00.000Z",
+                  "createdAt": "2023-03-25T18:02:51.182Z",
+                  "updatedAt": "2023-07-05T23:03:50.518Z",
+                  "publishedAt": "2023-03-25T18:02:55.400Z",
+                  "locale": "es-CO",
+                  "data": null
+                }
+              }
+            ]
+          },
+          "seo": [],
+          "metasocial": [],
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 7,
+        "attributes": {
+          "id_point": "6",
+          "uuid": "parque-main-santafe-antioquia",
+          "name": "Parque Principal Santa Fe de Antioquia",
+          "description": null,
+          "location": {
+            "nombre": "Parque Principal",
+            "ubicacion": "Santa Fe de Antioquia",
+            "descripcion": "Plaza colonial con una fuente, una iglesia, tiendas y restaurantes.",
+            "departamento": "Antioquia",
+            "clima": "Tropical de montaña",
+            "latitud": 6.55710508696423,
+            "longitud": -75.82783628342118,
+            "icon": "/uploads/parques_80a10883e6.webp?updated_at=2023-03-28T21:41:03.370Z",
+            "type": "Parque Natural"
+          },
+          "state": null,
+          "data": null,
+          "deleted": false,
+          "created": null,
+          "updated": null,
+          "tags": null,
+          "createdAt": "2023-03-27T17:30:20.960Z",
+          "updatedAt": "2023-06-11T18:01:10.166Z",
+          "publishedAt": "2023-03-27T17:30:23.817Z",
+          "locale": "es-CO",
+          "gMapsPoint": null,
+          "places": {
+            "data": [
+              {
+                "id": 3,
+                "attributes": {
+                  "id_place": "3",
+                  "uuid": "antioquia",
+                  "type": "departamento antioquia",
+                  "name": "Antioquia",
+                  "description": null,
+                  "location": {
+                    "departamento": "Antioquia",
+                    "latitud": "6.27053",
+                    "longitud": "-75.5722"
+                  },
+                  "data": {
+                    "geoJSON": "/uploads/colombia_antioquia_08bdb682d6.geojson"
+                  },
+                  "deleted": false,
+                  "created": null,
+                  "updated": null,
+                  "tags": null,
+                  "createdAt": "2023-03-27T17:15:32.812Z",
+                  "updatedAt": "2023-07-08T14:35:51.318Z",
+                  "publishedAt": "2023-03-27T17:15:36.043Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "media": {
+            "data": [
+              {
+                "id": 250,
+                "attributes": {
+                  "name": "parque-principal-santafe-antioquia.jpeg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 1536,
+                  "height": 1024,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_parque-principal-santafe-antioquia.jpeg",
+                      "hash": "thumbnail_parque_principal_santafe_antioquia_7012658620",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 234,
+                      "height": 156,
+                      "size": 11.11,
+                      "url": "/uploads/thumbnail_parque_principal_santafe_antioquia_7012658620.jpeg"
+                    },
+                    "small": {
+                      "name": "small_parque-principal-santafe-antioquia.jpeg",
+                      "hash": "small_parque_principal_santafe_antioquia_7012658620",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 333,
+                      "size": 44.03,
+                      "url": "/uploads/small_parque_principal_santafe_antioquia_7012658620.jpeg"
+                    },
+                    "medium": {
+                      "name": "medium_parque-principal-santafe-antioquia.jpeg",
+                      "hash": "medium_parque_principal_santafe_antioquia_7012658620",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 750,
+                      "height": 500,
+                      "size": 94.71,
+                      "url": "/uploads/medium_parque_principal_santafe_antioquia_7012658620.jpeg"
+                    },
+                    "large": {
+                      "name": "large_parque-principal-santafe-antioquia.jpeg",
+                      "hash": "large_parque_principal_santafe_antioquia_7012658620",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 1000,
+                      "height": 667,
+                      "size": 158.65,
+                      "url": "/uploads/large_parque_principal_santafe_antioquia_7012658620.jpeg"
+                    }
+                  },
+                  "hash": "parque_principal_santafe_antioquia_7012658620",
+                  "ext": ".jpeg",
+                  "mime": "image/jpeg",
+                  "size": 328.3,
+                  "url": "/uploads/parque_principal_santafe_antioquia_7012658620.jpeg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-06-11T18:00:45.299Z",
+                  "updatedAt": "2023-06-11T18:00:45.299Z"
+                }
+              }
+            ]
+          },
+          "routes": {
+            "data": []
+          },
+          "subcategories": {
+            "data": [
+              {
+                "id": 42,
+                "attributes": {
+                  "id_subcategory": "42",
+                  "uuid": "subcategory-42",
+                  "name": "Parques Naturales",
+                  "description": null,
+                  "deleted": false,
+                  "created": "2023-03-29T05:00:00.000Z",
+                  "updated": "2023-03-29T05:00:00.000Z",
+                  "createdAt": "2023-03-29T16:10:49.079Z",
+                  "updatedAt": "2023-03-29T16:11:02.204Z",
+                  "publishedAt": "2023-03-29T16:11:02.139Z",
+                  "locale": "es-CO",
+                  "data": null
+                }
+              }
+            ]
+          },
+          "seo": [],
+          "metasocial": [],
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 8,
+        "attributes": {
+          "id_point": "7",
+          "uuid": "katios",
+          "name": "Parque Natural Nacional los Katíos",
+          "description": null,
+          "location": {
+            "nombre": "Parque Nacional Natural Los Katíos",
+            "ubicacion": "Urabá",
+            "descripcion": "Parque nacional con una gran diversidad de ecosistemas, como selvas, manglares, ríos y pantanos, y una fauna y flora rica en especies endémicas y en peligro de extinción.",
+            "departamento": "Antioquia",
+            "clima": "Tropical de montaña",
+            "latitud": 7.668852737268538,
+            "longitud": -76.9999641505416,
+            "icon": "/uploads/parques_80a10883e6.webp?updated_at=2023-03-28T21:41:03.370Z",
+            "type": "Parque Natural"
+          },
+          "state": null,
+          "data": null,
+          "deleted": false,
+          "created": null,
+          "updated": null,
+          "tags": null,
+          "createdAt": "2023-03-27T17:33:18.867Z",
+          "updatedAt": "2023-06-11T18:03:33.075Z",
+          "publishedAt": "2023-03-27T17:33:23.544Z",
+          "locale": "es-CO",
+          "gMapsPoint": null,
+          "places": {
+            "data": [
+              {
+                "id": 3,
+                "attributes": {
+                  "id_place": "3",
+                  "uuid": "antioquia",
+                  "type": "departamento antioquia",
+                  "name": "Antioquia",
+                  "description": null,
+                  "location": {
+                    "departamento": "Antioquia",
+                    "latitud": "6.27053",
+                    "longitud": "-75.5722"
+                  },
+                  "data": {
+                    "geoJSON": "/uploads/colombia_antioquia_08bdb682d6.geojson"
+                  },
+                  "deleted": false,
+                  "created": null,
+                  "updated": null,
+                  "tags": null,
+                  "createdAt": "2023-03-27T17:15:32.812Z",
+                  "updatedAt": "2023-07-08T14:35:51.318Z",
+                  "publishedAt": "2023-03-27T17:15:36.043Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "media": {
+            "data": [
+              {
+                "id": 251,
+                "attributes": {
+                  "name": "los-katios-parque.jpeg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 512,
+                  "height": 307,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_los-katios-parque.jpeg",
+                      "hash": "thumbnail_los_katios_parque_0f12fad16a",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 245,
+                      "height": 147,
+                      "size": 15.69,
+                      "url": "/uploads/thumbnail_los_katios_parque_0f12fad16a.jpeg"
+                    },
+                    "small": {
+                      "name": "small_los-katios-parque.jpeg",
+                      "hash": "small_los_katios_parque_0f12fad16a",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 300,
+                      "size": 62.17,
+                      "url": "/uploads/small_los_katios_parque_0f12fad16a.jpeg"
+                    }
+                  },
+                  "hash": "los_katios_parque_0f12fad16a",
+                  "ext": ".jpeg",
+                  "mime": "image/jpeg",
+                  "size": 67.33,
+                  "url": "/uploads/los_katios_parque_0f12fad16a.jpeg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-06-11T18:03:27.108Z",
+                  "updatedAt": "2023-06-11T18:03:27.108Z"
+                }
+              }
+            ]
+          },
+          "routes": {
+            "data": []
+          },
+          "subcategories": {
+            "data": [
+              {
+                "id": 42,
+                "attributes": {
+                  "id_subcategory": "42",
+                  "uuid": "subcategory-42",
+                  "name": "Parques Naturales",
+                  "description": null,
+                  "deleted": false,
+                  "created": "2023-03-29T05:00:00.000Z",
+                  "updated": "2023-03-29T05:00:00.000Z",
+                  "createdAt": "2023-03-29T16:10:49.079Z",
+                  "updatedAt": "2023-03-29T16:11:02.204Z",
+                  "publishedAt": "2023-03-29T16:11:02.139Z",
+                  "locale": "es-CO",
+                  "data": null
+                }
+              }
+            ]
+          },
+          "seo": [],
+          "metasocial": [],
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 9,
+        "attributes": {
+          "id_point": "8",
+          "uuid": "cascada-juan-curi",
+          "name": "Cascada de Juan Curi",
+          "description": null,
+          "location": {
+            "nombre": "Cascada de Juan Curi",
+            "ubicacion": "San Gil",
+            "descripcion": "Cascada de 80 metros de altura rodeada de exuberante vegetación, con una piscina natural para nadar.",
+            "departamento": "Antioquia",
+            "clima": "Tropical de montaña",
+            "latitud": 6.3725306192823945,
+            "longitud": -73.16452768468835,
+            "icon": "/uploads/maravillas_c3545982d8.webp?updated_at=2023-03-28T21:41:04.557Z",
+            "type": "Lugar turistico"
+          },
+          "state": null,
+          "data": null,
+          "deleted": false,
+          "created": null,
+          "updated": null,
+          "tags": null,
+          "createdAt": "2023-03-27T17:34:13.035Z",
+          "updatedAt": "2023-06-11T18:08:13.801Z",
+          "publishedAt": "2023-03-27T17:34:15.335Z",
+          "locale": "es-CO",
+          "gMapsPoint": null,
+          "places": {
+            "data": [
+              {
+                "id": 3,
+                "attributes": {
+                  "id_place": "3",
+                  "uuid": "antioquia",
+                  "type": "departamento antioquia",
+                  "name": "Antioquia",
+                  "description": null,
+                  "location": {
+                    "departamento": "Antioquia",
+                    "latitud": "6.27053",
+                    "longitud": "-75.5722"
+                  },
+                  "data": {
+                    "geoJSON": "/uploads/colombia_antioquia_08bdb682d6.geojson"
+                  },
+                  "deleted": false,
+                  "created": null,
+                  "updated": null,
+                  "tags": null,
+                  "createdAt": "2023-03-27T17:15:32.812Z",
+                  "updatedAt": "2023-07-08T14:35:51.318Z",
+                  "publishedAt": "2023-03-27T17:15:36.043Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "media": {
+            "data": [
+              {
+                "id": 252,
+                "attributes": {
+                  "name": "cascada-juan-curi-sangil.jpeg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 384,
+                  "height": 512,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_cascada-juan-curi-sangil.jpeg",
+                      "hash": "thumbnail_cascada_juan_curi_sangil_237039d7e0",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 117,
+                      "height": 156,
+                      "size": 6.83,
+                      "url": "/uploads/thumbnail_cascada_juan_curi_sangil_237039d7e0.jpeg"
+                    },
+                    "small": {
+                      "name": "small_cascada-juan-curi-sangil.jpeg",
+                      "hash": "small_cascada_juan_curi_sangil_237039d7e0",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 375,
+                      "height": 500,
+                      "size": 63.71,
+                      "url": "/uploads/small_cascada_juan_curi_sangil_237039d7e0.jpeg"
+                    }
+                  },
+                  "hash": "cascada_juan_curi_sangil_237039d7e0",
+                  "ext": ".jpeg",
+                  "mime": "image/jpeg",
+                  "size": 68.57,
+                  "url": "/uploads/cascada_juan_curi_sangil_237039d7e0.jpeg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-06-11T18:07:55.844Z",
+                  "updatedAt": "2023-06-11T18:07:55.844Z"
+                }
+              }
+            ]
+          },
+          "routes": {
+            "data": []
+          },
+          "subcategories": {
+            "data": [
+              {
+                "id": 8,
+                "attributes": {
+                  "id_subcategory": "8",
+                  "uuid": "subcategory-8",
+                  "name": "Lugares turistico",
+                  "description": null,
+                  "deleted": false,
+                  "created": "2023-03-25T05:00:00.000Z",
+                  "updated": "2023-03-25T05:00:00.000Z",
+                  "createdAt": "2023-03-25T18:02:51.182Z",
+                  "updatedAt": "2023-07-05T23:03:50.518Z",
+                  "publishedAt": "2023-03-25T18:02:55.400Z",
+                  "locale": "es-CO",
+                  "data": null
+                }
+              }
+            ]
+          },
+          "seo": [],
+          "metasocial": [],
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 10,
+        "attributes": {
+          "id_point": "9",
+          "uuid": "tatama",
+          "name": "Parque Nacional Natural Tatamá",
+          "description": null,
+          "location": {
+            "nombre": "Parque Nacional Natural Tatamá",
+            "ubicacion": "Risaralda",
+            "descripcion": "Parque nacional con una gran biodiversidad de flora y fauna, con numerosas especies endémicas y en peligro de extinción.",
+            "departamento": "Antioquia",
+            "clima": "Tropical de montaña",
+            "latitud": 5.113420726849107,
+            "longitud": -76.09634465351093,
+            "icon": "/uploads/parques_80a10883e6.webp?updated_at=2023-03-28T21:41:03.370Z",
+            "type": "Parque Natural"
+          },
+          "state": null,
+          "data": null,
+          "deleted": false,
+          "created": null,
+          "updated": null,
+          "tags": null,
+          "createdAt": "2023-03-27T17:35:29.455Z",
+          "updatedAt": "2023-06-11T18:11:25.622Z",
+          "publishedAt": "2023-03-27T17:35:33.008Z",
+          "locale": "es-CO",
+          "gMapsPoint": null,
+          "places": {
+            "data": [
+              {
+                "id": 3,
+                "attributes": {
+                  "id_place": "3",
+                  "uuid": "antioquia",
+                  "type": "departamento antioquia",
+                  "name": "Antioquia",
+                  "description": null,
+                  "location": {
+                    "departamento": "Antioquia",
+                    "latitud": "6.27053",
+                    "longitud": "-75.5722"
+                  },
+                  "data": {
+                    "geoJSON": "/uploads/colombia_antioquia_08bdb682d6.geojson"
+                  },
+                  "deleted": false,
+                  "created": null,
+                  "updated": null,
+                  "tags": null,
+                  "createdAt": "2023-03-27T17:15:32.812Z",
+                  "updatedAt": "2023-07-08T14:35:51.318Z",
+                  "publishedAt": "2023-03-27T17:15:36.043Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "media": {
+            "data": [
+              {
+                "id": 253,
+                "attributes": {
+                  "name": "parque-tatama-antioquia.jpeg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 451,
+                  "height": 338,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_parque-tatama-antioquia.jpeg",
+                      "hash": "thumbnail_parque_tatama_antioquia_01420ff5ec",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 208,
+                      "height": 156,
+                      "size": 8.49,
+                      "url": "/uploads/thumbnail_parque_tatama_antioquia_01420ff5ec.jpeg"
+                    }
+                  },
+                  "hash": "parque_tatama_antioquia_01420ff5ec",
+                  "ext": ".jpeg",
+                  "mime": "image/jpeg",
+                  "size": 39.06,
+                  "url": "/uploads/parque_tatama_antioquia_01420ff5ec.jpeg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-06-11T18:11:16.009Z",
+                  "updatedAt": "2023-06-11T18:11:16.009Z"
+                }
+              }
+            ]
+          },
+          "routes": {
+            "data": []
+          },
+          "subcategories": {
+            "data": [
+              {
+                "id": 42,
+                "attributes": {
+                  "id_subcategory": "42",
+                  "uuid": "subcategory-42",
+                  "name": "Parques Naturales",
+                  "description": null,
+                  "deleted": false,
+                  "created": "2023-03-29T05:00:00.000Z",
+                  "updated": "2023-03-29T05:00:00.000Z",
+                  "createdAt": "2023-03-29T16:10:49.079Z",
+                  "updatedAt": "2023-03-29T16:11:02.204Z",
+                  "publishedAt": "2023-03-29T16:11:02.139Z",
+                  "locale": "es-CO",
+                  "data": null
+                }
+              }
+            ]
+          },
+          "seo": [],
+          "metasocial": [],
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 11,
+        "attributes": {
+          "id_point": "10",
+          "uuid": "pueblito-paisa",
+          "name": "Pueblito Paisa",
+          "description": null,
+          "location": {
+            "nombre": "Pueblito Paisa",
+            "ubicacion": "Medellín",
+            "descripcion": "Réplica de un típico pueblo antioqueño con una iglesia, una plaza, tiendas y restaurantes.",
+            "departamento": "Antioquia",
+            "clima": "Tropical de montaña",
+            "latitud": 6.236835591784434,
+            "longitud": -75.58065320796145,
+            "icon": "/uploads/maravillas_c3545982d8.webp?updated_at=2023-03-28T21:41:04.557Z",
+            "type": "Lugar turistico"
+          },
+          "state": null,
+          "data": null,
+          "deleted": false,
+          "created": null,
+          "updated": null,
+          "tags": null,
+          "createdAt": "2023-03-27T17:37:35.095Z",
+          "updatedAt": "2023-06-11T18:14:32.298Z",
+          "publishedAt": "2023-03-27T17:37:38.348Z",
+          "locale": "es-CO",
+          "gMapsPoint": null,
+          "places": {
+            "data": [
+              {
+                "id": 3,
+                "attributes": {
+                  "id_place": "3",
+                  "uuid": "antioquia",
+                  "type": "departamento antioquia",
+                  "name": "Antioquia",
+                  "description": null,
+                  "location": {
+                    "departamento": "Antioquia",
+                    "latitud": "6.27053",
+                    "longitud": "-75.5722"
+                  },
+                  "data": {
+                    "geoJSON": "/uploads/colombia_antioquia_08bdb682d6.geojson"
+                  },
+                  "deleted": false,
+                  "created": null,
+                  "updated": null,
+                  "tags": null,
+                  "createdAt": "2023-03-27T17:15:32.812Z",
+                  "updatedAt": "2023-07-08T14:35:51.318Z",
+                  "publishedAt": "2023-03-27T17:15:36.043Z",
+                  "locale": "es-CO"
+                }
+              },
+              {
+                "id": 33,
+                "attributes": {
+                  "id_place": "33",
+                  "uuid": "ciudad-medellin",
+                  "type": "ciudad medellin ",
+                  "name": "Medellín",
+                  "description": null,
+                  "location": {
+                    "ciudad": "Medellín",
+                    "latitud": "6.2520465719472185",
+                    "longitud": "-75.57984359793085"
+                  },
+                  "data": {
+                    "geoJSON": "/uploads/medellin_4ba77f2941.geojson"
+                  },
+                  "deleted": null,
+                  "created": null,
+                  "updated": null,
+                  "tags": null,
+                  "createdAt": "2023-07-15T16:08:27.008Z",
+                  "updatedAt": "2023-07-15T18:55:04.904Z",
+                  "publishedAt": "2023-07-15T16:08:30.524Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "media": {
+            "data": [
+              {
+                "id": 254,
+                "attributes": {
+                  "name": "pueblito-paisa.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 1024,
+                  "height": 683,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_pueblito-paisa.jpg",
+                      "hash": "thumbnail_pueblito_paisa_6db56907b2",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 234,
+                      "height": 156,
+                      "size": 10.75,
+                      "url": "/uploads/thumbnail_pueblito_paisa_6db56907b2.jpg"
+                    },
+                    "small": {
+                      "name": "small_pueblito-paisa.jpg",
+                      "hash": "small_pueblito_paisa_6db56907b2",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 333,
+                      "size": 42.69,
+                      "url": "/uploads/small_pueblito_paisa_6db56907b2.jpg"
+                    },
+                    "medium": {
+                      "name": "medium_pueblito-paisa.jpg",
+                      "hash": "medium_pueblito_paisa_6db56907b2",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 750,
+                      "height": 500,
+                      "size": 93.74,
+                      "url": "/uploads/medium_pueblito_paisa_6db56907b2.jpg"
+                    },
+                    "large": {
+                      "name": "large_pueblito-paisa.jpg",
+                      "hash": "large_pueblito_paisa_6db56907b2",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 1000,
+                      "height": 667,
+                      "size": 160.89,
+                      "url": "/uploads/large_pueblito_paisa_6db56907b2.jpg"
+                    }
+                  },
+                  "hash": "pueblito_paisa_6db56907b2",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 176.3,
+                  "url": "/uploads/pueblito_paisa_6db56907b2.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-06-11T18:14:21.506Z",
+                  "updatedAt": "2023-06-11T18:14:21.506Z"
+                }
+              }
+            ]
+          },
+          "routes": {
+            "data": []
+          },
+          "subcategories": {
+            "data": [
+              {
+                "id": 8,
+                "attributes": {
+                  "id_subcategory": "8",
+                  "uuid": "subcategory-8",
+                  "name": "Lugares turistico",
+                  "description": null,
+                  "deleted": false,
+                  "created": "2023-03-25T05:00:00.000Z",
+                  "updated": "2023-03-25T05:00:00.000Z",
+                  "createdAt": "2023-03-25T18:02:51.182Z",
+                  "updatedAt": "2023-07-05T23:03:50.518Z",
+                  "publishedAt": "2023-03-25T18:02:55.400Z",
+                  "locale": "es-CO",
+                  "data": null
+                }
+              }
+            ]
+          },
+          "seo": [],
+          "metasocial": [],
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 12,
+        "attributes": {
+          "id_point": "11",
+          "uuid": "cabo-vela-guajira",
+          "name": "Cabo de la Vela",
+          "description": null,
+          "location": {
+            "nombre": "Cabo de la Vela",
+            "ubicacion": "Uribia",
+            "descripcion": "Uno de los destinos turísticos más populares de La Guajira, conocido por sus playas de aguas cristalinas, acantilados rocosos y los hermosos atardeceres que se pueden observar desde el faro del cabo.",
+            "departamento": "La Guajira",
+            "clima": "Cálido y seco",
+            "latitud": 12.19808514197527,
+            "longitud": -72.14617686831023,
+            "icon": "/uploads/maravillas_c3545982d8.webp?updated_at=2023-03-28T21:41:04.557Z",
+            "type": "Lugar turistico"
+          },
+          "state": null,
+          "data": null,
+          "deleted": false,
+          "created": null,
+          "updated": null,
+          "tags": null,
+          "createdAt": "2023-03-27T17:39:03.979Z",
+          "updatedAt": "2023-06-11T18:18:02.676Z",
+          "publishedAt": "2023-03-27T17:39:07.365Z",
+          "locale": "es-CO",
+          "gMapsPoint": null,
+          "places": {
+            "data": [
+              {
+                "id": 1,
+                "attributes": {
+                  "id_place": "1",
+                  "uuid": "la-guajira",
+                  "type": "departamento guajira",
+                  "name": "La Guajira",
+                  "description": null,
+                  "location": {
+                    "departamento": "La Guajira",
+                    "latitud": "11.470006",
+                    "longitud": "-72.930588"
+                  },
+                  "data": {
+                    "geoJSON": "/uploads/colombia_guajira_b6616937fc.geojson"
+                  },
+                  "deleted": false,
+                  "created": "2023-03-27T05:00:00.000Z",
+                  "updated": "2023-03-27T05:00:00.000Z",
+                  "tags": null,
+                  "createdAt": "2023-03-27T17:11:34.633Z",
+                  "updatedAt": "2023-07-08T14:34:59.246Z",
+                  "publishedAt": "2023-03-27T17:11:45.809Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "media": {
+            "data": [
+              {
+                "id": 255,
+                "attributes": {
+                  "name": "cabo-de-la-vela.jpeg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 451,
+                  "height": 338,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_cabo-de-la-vela.jpeg",
+                      "hash": "thumbnail_cabo_de_la_vela_332aebc9d0",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 208,
+                      "height": 156,
+                      "size": 6.69,
+                      "url": "/uploads/thumbnail_cabo_de_la_vela_332aebc9d0.jpeg"
+                    }
+                  },
+                  "hash": "cabo_de_la_vela_332aebc9d0",
+                  "ext": ".jpeg",
+                  "mime": "image/jpeg",
+                  "size": 28.09,
+                  "url": "/uploads/cabo_de_la_vela_332aebc9d0.jpeg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-06-11T18:17:51.499Z",
+                  "updatedAt": "2023-06-11T18:17:51.499Z"
+                }
+              }
+            ]
+          },
+          "routes": {
+            "data": []
+          },
+          "subcategories": {
+            "data": [
+              {
+                "id": 32,
+                "attributes": {
+                  "id_subcategory": "32",
+                  "uuid": "subcategory-32",
+                  "name": "Playas",
+                  "description": null,
+                  "deleted": false,
+                  "created": "2023-03-29T05:00:00.000Z",
+                  "updated": "2023-03-29T05:00:00.000Z",
+                  "createdAt": "2023-03-29T15:57:04.743Z",
+                  "updatedAt": "2023-03-29T15:57:08.756Z",
+                  "publishedAt": "2023-03-29T15:57:08.692Z",
+                  "locale": "es-CO",
+                  "data": null
+                }
+              },
+              {
+                "id": 8,
+                "attributes": {
+                  "id_subcategory": "8",
+                  "uuid": "subcategory-8",
+                  "name": "Lugares turistico",
+                  "description": null,
+                  "deleted": false,
+                  "created": "2023-03-25T05:00:00.000Z",
+                  "updated": "2023-03-25T05:00:00.000Z",
+                  "createdAt": "2023-03-25T18:02:51.182Z",
+                  "updatedAt": "2023-07-05T23:03:50.518Z",
+                  "publishedAt": "2023-03-25T18:02:55.400Z",
+                  "locale": "es-CO",
+                  "data": null
+                }
+              }
+            ]
+          },
+          "seo": [],
+          "metasocial": [],
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 13,
+        "attributes": {
+          "id_point": "12",
+          "uuid": "macuira-guajira",
+          "name": "Parque Nacional Natural Macuira",
+          "description": null,
+          "location": {
+            "nombre": "Parque Nacional Natural Natural Macuira",
+            "ubicacion": "Uribia",
+            "descripcion": "Un oasis de vida en medio del desierto, el parque alberga una gran variedad de especies de flora y fauna, muchas de ellas endémicas de la región.",
+            "departamento": "La Guajira",
+            "clima": "Cálido y seco",
+            "latitud": 12.173592302498037,
+            "longitud": -71.33499606168203,
+            "icon": "/uploads/parques_80a10883e6.webp?updated_at=2023-03-28T21:41:03.370Z",
+            "type": "Parque Natural"
+          },
+          "state": null,
+          "data": null,
+          "deleted": false,
+          "created": null,
+          "updated": null,
+          "tags": null,
+          "createdAt": "2023-03-27T17:40:15.134Z",
+          "updatedAt": "2023-06-11T18:22:24.047Z",
+          "publishedAt": "2023-03-27T17:40:17.596Z",
+          "locale": "es-CO",
+          "gMapsPoint": null,
+          "places": {
+            "data": [
+              {
+                "id": 1,
+                "attributes": {
+                  "id_place": "1",
+                  "uuid": "la-guajira",
+                  "type": "departamento guajira",
+                  "name": "La Guajira",
+                  "description": null,
+                  "location": {
+                    "departamento": "La Guajira",
+                    "latitud": "11.470006",
+                    "longitud": "-72.930588"
+                  },
+                  "data": {
+                    "geoJSON": "/uploads/colombia_guajira_b6616937fc.geojson"
+                  },
+                  "deleted": false,
+                  "created": "2023-03-27T05:00:00.000Z",
+                  "updated": "2023-03-27T05:00:00.000Z",
+                  "tags": null,
+                  "createdAt": "2023-03-27T17:11:34.633Z",
+                  "updatedAt": "2023-07-08T14:34:59.246Z",
+                  "publishedAt": "2023-03-27T17:11:45.809Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "media": {
+            "data": [
+              {
+                "id": 256,
+                "attributes": {
+                  "name": "parque-macuira-guajira.jpeg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 435,
+                  "height": 290,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_parque-macuira-guajira.jpeg",
+                      "hash": "thumbnail_parque_macuira_guajira_abf42fd67c",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 234,
+                      "height": 156,
+                      "size": 9.7,
+                      "url": "/uploads/thumbnail_parque_macuira_guajira_abf42fd67c.jpeg"
+                    }
+                  },
+                  "hash": "parque_macuira_guajira_abf42fd67c",
+                  "ext": ".jpeg",
+                  "mime": "image/jpeg",
+                  "size": 30.6,
+                  "url": "/uploads/parque_macuira_guajira_abf42fd67c.jpeg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-06-11T18:22:18.286Z",
+                  "updatedAt": "2023-06-11T18:22:18.286Z"
+                }
+              }
+            ]
+          },
+          "routes": {
+            "data": []
+          },
+          "subcategories": {
+            "data": [
+              {
+                "id": 42,
+                "attributes": {
+                  "id_subcategory": "42",
+                  "uuid": "subcategory-42",
+                  "name": "Parques Naturales",
+                  "description": null,
+                  "deleted": false,
+                  "created": "2023-03-29T05:00:00.000Z",
+                  "updated": "2023-03-29T05:00:00.000Z",
+                  "createdAt": "2023-03-29T16:10:49.079Z",
+                  "updatedAt": "2023-03-29T16:11:02.204Z",
+                  "publishedAt": "2023-03-29T16:11:02.139Z",
+                  "locale": "es-CO",
+                  "data": null
+                }
+              }
+            ]
+          },
+          "seo": [],
+          "metasocial": [],
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 14,
+        "attributes": {
+          "id_point": "13",
+          "uuid": "portete-guajira",
+          "name": "Bahía Portete",
+          "description": null,
+          "location": {
+            "nombre": "Bahía Portete",
+            "ubicacion": "Uribia",
+            "descripcion": "Una hermosa bahía de aguas turquesas, rodeada por playas de arena blanca y cocoteros. Es un lugar ideal para practicar deportes acuáticos como el windsurf y el kitesurf.",
+            "departamento": "La Guajira",
+            "clima": "Cálido y seco",
+            "latitud": 12.170221977334128,
+            "longitud": -71.89830079338351,
+            "icon": "/uploads/playas_c34765b317.webp?updated_at=2023-03-28T21:41:03.419Z",
+            "type": "Playa"
+          },
+          "state": null,
+          "data": null,
+          "deleted": false,
+          "created": null,
+          "updated": null,
+          "tags": null,
+          "createdAt": "2023-03-27T17:41:39.504Z",
+          "updatedAt": "2023-06-11T18:26:52.720Z",
+          "publishedAt": "2023-03-27T17:41:42.981Z",
+          "locale": "es-CO",
+          "gMapsPoint": null,
+          "places": {
+            "data": [
+              {
+                "id": 1,
+                "attributes": {
+                  "id_place": "1",
+                  "uuid": "la-guajira",
+                  "type": "departamento guajira",
+                  "name": "La Guajira",
+                  "description": null,
+                  "location": {
+                    "departamento": "La Guajira",
+                    "latitud": "11.470006",
+                    "longitud": "-72.930588"
+                  },
+                  "data": {
+                    "geoJSON": "/uploads/colombia_guajira_b6616937fc.geojson"
+                  },
+                  "deleted": false,
+                  "created": "2023-03-27T05:00:00.000Z",
+                  "updated": "2023-03-27T05:00:00.000Z",
+                  "tags": null,
+                  "createdAt": "2023-03-27T17:11:34.633Z",
+                  "updatedAt": "2023-07-08T14:34:59.246Z",
+                  "publishedAt": "2023-03-27T17:11:45.809Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "media": {
+            "data": [
+              {
+                "id": 257,
+                "attributes": {
+                  "name": "bahia-portete.jpeg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 450,
+                  "height": 338,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_bahia-portete.jpeg",
+                      "hash": "thumbnail_bahia_portete_dbded7ddc7",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 208,
+                      "height": 156,
+                      "size": 4.55,
+                      "url": "/uploads/thumbnail_bahia_portete_dbded7ddc7.jpeg"
+                    }
+                  },
+                  "hash": "bahia_portete_dbded7ddc7",
+                  "ext": ".jpeg",
+                  "mime": "image/jpeg",
+                  "size": 18.67,
+                  "url": "/uploads/bahia_portete_dbded7ddc7.jpeg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-06-11T18:26:42.546Z",
+                  "updatedAt": "2023-06-11T18:26:42.546Z"
+                }
+              }
+            ]
+          },
+          "routes": {
+            "data": []
+          },
+          "subcategories": {
+            "data": [
+              {
+                "id": 32,
+                "attributes": {
+                  "id_subcategory": "32",
+                  "uuid": "subcategory-32",
+                  "name": "Playas",
+                  "description": null,
+                  "deleted": false,
+                  "created": "2023-03-29T05:00:00.000Z",
+                  "updated": "2023-03-29T05:00:00.000Z",
+                  "createdAt": "2023-03-29T15:57:04.743Z",
+                  "updatedAt": "2023-03-29T15:57:08.756Z",
+                  "publishedAt": "2023-03-29T15:57:08.692Z",
+                  "locale": "es-CO",
+                  "data": null
+                }
+              }
+            ]
+          },
+          "seo": [],
+          "metasocial": [],
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 15,
+        "attributes": {
+          "id_point": "14",
+          "uuid": "tatacoa-desert",
+          "name": "Desierto de la Tatacoa",
+          "description": null,
+          "location": {
+            "nombre": "Desierto de la Tatacoa",
+            "ubicacion": "Neiva",
+            "descripcion": "El segundo desierto más grande de Colombia, famoso por su paisaje lunar y las formaciones rocosas que se encuentran en el lugar. Es un lugar ideal para la observación astronómica.",
+            "departamento": "Huila",
+            "clima": "Cálido y seco",
+            "latitud": 3.233730755585044,
+            "longitud": -75.169757197759,
+            "icon": "/uploads/desiertos_3cbfc44757.webp?updated_at=2023-03-28T21:41:04.082Z",
+            "type": "Desierto"
+          },
+          "state": null,
+          "data": null,
+          "deleted": false,
+          "created": null,
+          "updated": null,
+          "tags": null,
+          "createdAt": "2023-03-27T17:42:46.814Z",
+          "updatedAt": "2023-06-11T18:36:22.687Z",
+          "publishedAt": "2023-03-27T17:42:49.360Z",
+          "locale": "es-CO",
+          "gMapsPoint": null,
+          "places": {
+            "data": [
+              {
+                "id": 6,
+                "attributes": {
+                  "id_place": "6",
+                  "uuid": "departamento-huila",
+                  "type": "departamento huila",
+                  "name": "Huila",
+                  "description": "",
+                  "location": {
+                    "departamento": "Huila",
+                    "latitud": "2.8556237556723336",
+                    "longitud": "-75.31508491942776"
+                  },
+                  "data": {
+                    "geoJSON": "/uploads/colombia_huila_36301a7af3.geojson"
+                  },
+                  "deleted": false,
+                  "created": "2023-06-11T05:00:00.000Z",
+                  "updated": "2023-06-11T05:00:00.000Z",
+                  "tags": null,
+                  "createdAt": "2023-06-11T18:35:25.890Z",
+                  "updatedAt": "2023-07-08T17:38:02.969Z",
+                  "publishedAt": "2023-06-11T18:35:30.055Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "media": {
+            "data": [
+              {
+                "id": 258,
+                "attributes": {
+                  "name": "desierto-tatacoa.jpeg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 515,
+                  "height": 290,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_desierto-tatacoa.jpeg",
+                      "hash": "thumbnail_desierto_tatacoa_abbdfcf697",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 245,
+                      "height": 138,
+                      "size": 9.2,
+                      "url": "/uploads/thumbnail_desierto_tatacoa_abbdfcf697.jpeg"
+                    },
+                    "small": {
+                      "name": "small_desierto-tatacoa.jpeg",
+                      "hash": "small_desierto_tatacoa_abbdfcf697",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 282,
+                      "size": 33.28,
+                      "url": "/uploads/small_desierto_tatacoa_abbdfcf697.jpeg"
+                    }
+                  },
+                  "hash": "desierto_tatacoa_abbdfcf697",
+                  "ext": ".jpeg",
+                  "mime": "image/jpeg",
+                  "size": 36.01,
+                  "url": "/uploads/desierto_tatacoa_abbdfcf697.jpeg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-06-11T18:30:54.699Z",
+                  "updatedAt": "2023-06-11T18:30:54.699Z"
+                }
+              }
+            ]
+          },
+          "routes": {
+            "data": []
+          },
+          "subcategories": {
+            "data": [
+              {
+                "id": 36,
+                "attributes": {
+                  "id_subcategory": "36",
+                  "uuid": "subcategory-36",
+                  "name": "Desiertos",
+                  "description": null,
+                  "deleted": false,
+                  "created": "2023-03-29T05:00:00.000Z",
+                  "updated": "2023-03-29T05:00:00.000Z",
+                  "createdAt": "2023-03-29T16:03:13.434Z",
+                  "updatedAt": "2023-03-29T16:03:17.079Z",
+                  "publishedAt": "2023-03-29T16:03:17.014Z",
+                  "locale": "es-CO",
+                  "data": null
+                }
+              }
+            ]
+          },
+          "seo": [],
+          "metasocial": [],
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 16,
+        "attributes": {
+          "id_point": "15",
+          "uuid": "punta-gallinas",
+          "name": "Punta Gallinas",
+          "description": null,
+          "location": {
+            "nombre": "Punta Gallinas",
+            "ubicacion": "Uribia",
+            "descripcion": "El punto más septentrional de América del Sur, un lugar de belleza impresionante, con playas de arena blanca y agua cristalina, un faro histórico y una cultura auténtica.",
+            "departamento": "La Guajira",
+            "clima": "Cálido y seco",
+            "latitud": 12.456722259515887,
+            "longitud": -71.6683907782541,
+            "icon": "/uploads/maravillas_c3545982d8.webp?updated_at=2023-03-28T21:41:04.557Z",
+            "type": "Lugar turistico"
+          },
+          "state": null,
+          "data": null,
+          "deleted": false,
+          "created": "2023-06-11T05:00:00.000Z",
+          "updated": "2023-06-11T05:00:00.000Z",
+          "tags": null,
+          "createdAt": "2023-03-27T17:43:53.326Z",
+          "updatedAt": "2023-06-13T21:03:19.258Z",
+          "publishedAt": "2023-03-27T17:43:56.365Z",
+          "locale": "es-CO",
+          "gMapsPoint": null,
+          "places": {
+            "data": [
+              {
+                "id": 1,
+                "attributes": {
+                  "id_place": "1",
+                  "uuid": "la-guajira",
+                  "type": "departamento guajira",
+                  "name": "La Guajira",
+                  "description": null,
+                  "location": {
+                    "departamento": "La Guajira",
+                    "latitud": "11.470006",
+                    "longitud": "-72.930588"
+                  },
+                  "data": {
+                    "geoJSON": "/uploads/colombia_guajira_b6616937fc.geojson"
+                  },
+                  "deleted": false,
+                  "created": "2023-03-27T05:00:00.000Z",
+                  "updated": "2023-03-27T05:00:00.000Z",
+                  "tags": null,
+                  "createdAt": "2023-03-27T17:11:34.633Z",
+                  "updatedAt": "2023-07-08T14:34:59.246Z",
+                  "publishedAt": "2023-03-27T17:11:45.809Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "media": {
+            "data": [
+              {
+                "id": 259,
+                "attributes": {
+                  "name": "punta-gallina-guajira.jpeg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 1333,
+                  "height": 1000,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_punta-gallina-guajira.jpeg",
+                      "hash": "thumbnail_punta_gallina_guajira_112b7dbafa",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 208,
+                      "height": 156,
+                      "size": 5.72,
+                      "url": "/uploads/thumbnail_punta_gallina_guajira_112b7dbafa.jpeg"
+                    },
+                    "medium": {
+                      "name": "medium_punta-gallina-guajira.jpeg",
+                      "hash": "medium_punta_gallina_guajira_112b7dbafa",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 750,
+                      "height": 563,
+                      "size": 58.02,
+                      "url": "/uploads/medium_punta_gallina_guajira_112b7dbafa.jpeg"
+                    },
+                    "small": {
+                      "name": "small_punta-gallina-guajira.jpeg",
+                      "hash": "small_punta_gallina_guajira_112b7dbafa",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 375,
+                      "size": 26.85,
+                      "url": "/uploads/small_punta_gallina_guajira_112b7dbafa.jpeg"
+                    },
+                    "large": {
+                      "name": "large_punta-gallina-guajira.jpeg",
+                      "hash": "large_punta_gallina_guajira_112b7dbafa",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 1000,
+                      "height": 750,
+                      "size": 101.16,
+                      "url": "/uploads/large_punta_gallina_guajira_112b7dbafa.jpeg"
+                    }
+                  },
+                  "hash": "punta_gallina_guajira_112b7dbafa",
+                  "ext": ".jpeg",
+                  "mime": "image/jpeg",
+                  "size": 179.65,
+                  "url": "/uploads/punta_gallina_guajira_112b7dbafa.jpeg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-06-11T20:31:52.165Z",
+                  "updatedAt": "2023-06-11T20:31:52.165Z"
+                }
+              }
+            ]
+          },
+          "routes": {
+            "data": []
+          },
+          "subcategories": {
+            "data": [
+              {
+                "id": 8,
+                "attributes": {
+                  "id_subcategory": "8",
+                  "uuid": "subcategory-8",
+                  "name": "Lugares turistico",
+                  "description": null,
+                  "deleted": false,
+                  "created": "2023-03-25T05:00:00.000Z",
+                  "updated": "2023-03-25T05:00:00.000Z",
+                  "createdAt": "2023-03-25T18:02:51.182Z",
+                  "updatedAt": "2023-07-05T23:03:50.518Z",
+                  "publishedAt": "2023-03-25T18:02:55.400Z",
+                  "locale": "es-CO",
+                  "data": null
+                }
+              },
+              {
+                "id": 32,
+                "attributes": {
+                  "id_subcategory": "32",
+                  "uuid": "subcategory-32",
+                  "name": "Playas",
+                  "description": null,
+                  "deleted": false,
+                  "created": "2023-03-29T05:00:00.000Z",
+                  "updated": "2023-03-29T05:00:00.000Z",
+                  "createdAt": "2023-03-29T15:57:04.743Z",
+                  "updatedAt": "2023-03-29T15:57:08.756Z",
+                  "publishedAt": "2023-03-29T15:57:08.692Z",
+                  "locale": "es-CO",
+                  "data": null
+                }
+              }
+            ]
+          },
+          "seo": [],
+          "metasocial": [],
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 17,
+        "attributes": {
+          "id_point": "16",
+          "uuid": "mayapo-playa",
+          "name": "Playa de Mayapo",
+          "description": null,
+          "location": {
+            "nombre": "Playa de Mayapo",
+            "ubicacion": "Riohacha",
+            "descripcion": "Ubicada a 20 minutos de Riohacha, la Playa de Mayapo es una de las playas más populares de La Guajira. Con aguas cristalinas y arenas blancas, es un lugar ideal para relajarse y disfrutar del sol.",
+            "departamento": "La Guajira",
+            "clima": "Desértico",
+            "latitud": 11.661852691731518,
+            "longitud": -72.78564851248692,
+            "icon": "/uploads/playas_c34765b317.webp?updated_at=2023-03-28T21:41:03.419Z",
+            "type": "Playa"
+          },
+          "state": null,
+          "data": null,
+          "deleted": false,
+          "created": null,
+          "updated": null,
+          "tags": null,
+          "createdAt": "2023-03-27T17:45:22.697Z",
+          "updatedAt": "2023-06-11T20:35:06.407Z",
+          "publishedAt": "2023-03-27T17:45:25.964Z",
+          "locale": "es-CO",
+          "gMapsPoint": null,
+          "places": {
+            "data": [
+              {
+                "id": 1,
+                "attributes": {
+                  "id_place": "1",
+                  "uuid": "la-guajira",
+                  "type": "departamento guajira",
+                  "name": "La Guajira",
+                  "description": null,
+                  "location": {
+                    "departamento": "La Guajira",
+                    "latitud": "11.470006",
+                    "longitud": "-72.930588"
+                  },
+                  "data": {
+                    "geoJSON": "/uploads/colombia_guajira_b6616937fc.geojson"
+                  },
+                  "deleted": false,
+                  "created": "2023-03-27T05:00:00.000Z",
+                  "updated": "2023-03-27T05:00:00.000Z",
+                  "tags": null,
+                  "createdAt": "2023-03-27T17:11:34.633Z",
+                  "updatedAt": "2023-07-08T14:34:59.246Z",
+                  "publishedAt": "2023-03-27T17:11:45.809Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "media": {
+            "data": [
+              {
+                "id": 260,
+                "attributes": {
+                  "name": "playa-mayapo.guajira.jpeg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 512,
+                  "height": 384,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_playa-mayapo.guajira.jpeg",
+                      "hash": "thumbnail_playa_mayapo_guajira_a2edf01fbf",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 208,
+                      "height": 156,
+                      "size": 8.2,
+                      "url": "/uploads/thumbnail_playa_mayapo_guajira_a2edf01fbf.jpeg"
+                    },
+                    "small": {
+                      "name": "small_playa-mayapo.guajira.jpeg",
+                      "hash": "small_playa_mayapo_guajira_a2edf01fbf",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 375,
+                      "size": 44.04,
+                      "url": "/uploads/small_playa_mayapo_guajira_a2edf01fbf.jpeg"
+                    }
+                  },
+                  "hash": "playa_mayapo_guajira_a2edf01fbf",
+                  "ext": ".jpeg",
+                  "mime": "image/jpeg",
+                  "size": 46.24,
+                  "url": "/uploads/playa_mayapo_guajira_a2edf01fbf.jpeg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-06-11T20:34:41.134Z",
+                  "updatedAt": "2023-06-11T20:34:41.134Z"
+                }
+              }
+            ]
+          },
+          "routes": {
+            "data": []
+          },
+          "subcategories": {
+            "data": [
+              {
+                "id": 32,
+                "attributes": {
+                  "id_subcategory": "32",
+                  "uuid": "subcategory-32",
+                  "name": "Playas",
+                  "description": null,
+                  "deleted": false,
+                  "created": "2023-03-29T05:00:00.000Z",
+                  "updated": "2023-03-29T05:00:00.000Z",
+                  "createdAt": "2023-03-29T15:57:04.743Z",
+                  "updatedAt": "2023-03-29T15:57:08.756Z",
+                  "publishedAt": "2023-03-29T15:57:08.692Z",
+                  "locale": "es-CO",
+                  "data": null
+                }
+              }
+            ]
+          },
+          "seo": [],
+          "metasocial": [],
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 18,
+        "attributes": {
+          "id_point": "17",
+          "uuid": "guajira-flamencos",
+          "name": "Santuario de Fauna y Flora Los Flamencos",
+          "description": null,
+          "location": {
+            "nombre": "Santuario de Fauna y Flora Los Flamencos",
+            "ubicacion": "Riohacha",
+            "descripcion": "Ubicado en la desembocadura del río Ranchería, el Santuario de Fauna y Flora Los Flamencos es un humedal que alberga una gran cantidad de especies de flora y fauna, incluyendo flamencos rosados. Es un lugar ideal para hacer avistamiento de aves.",
+            "departamento": "La Guajira",
+            "clima": "Desértico",
+            "latitud": 11.392605840342519,
+            "longitud": -73.04219274574503,
+            "icon": "/uploads/parques_80a10883e6.webp?updated_at=2023-03-28T21:41:03.370Z",
+            "type": "Parque Natural"
+          },
+          "state": null,
+          "data": null,
+          "deleted": false,
+          "created": null,
+          "updated": null,
+          "tags": null,
+          "createdAt": "2023-03-27T17:46:34.387Z",
+          "updatedAt": "2023-06-11T20:37:56.668Z",
+          "publishedAt": "2023-03-27T17:46:37.862Z",
+          "locale": "es-CO",
+          "gMapsPoint": null,
+          "places": {
+            "data": [
+              {
+                "id": 1,
+                "attributes": {
+                  "id_place": "1",
+                  "uuid": "la-guajira",
+                  "type": "departamento guajira",
+                  "name": "La Guajira",
+                  "description": null,
+                  "location": {
+                    "departamento": "La Guajira",
+                    "latitud": "11.470006",
+                    "longitud": "-72.930588"
+                  },
+                  "data": {
+                    "geoJSON": "/uploads/colombia_guajira_b6616937fc.geojson"
+                  },
+                  "deleted": false,
+                  "created": "2023-03-27T05:00:00.000Z",
+                  "updated": "2023-03-27T05:00:00.000Z",
+                  "tags": null,
+                  "createdAt": "2023-03-27T17:11:34.633Z",
+                  "updatedAt": "2023-07-08T14:34:59.246Z",
+                  "publishedAt": "2023-03-27T17:11:45.809Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "media": {
+            "data": [
+              {
+                "id": 261,
+                "attributes": {
+                  "name": "los-flamencos.jpeg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 516,
+                  "height": 290,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_los-flamencos.jpeg",
+                      "hash": "thumbnail_los_flamencos_35c818c752",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 245,
+                      "height": 138,
+                      "size": 7.62,
+                      "url": "/uploads/thumbnail_los_flamencos_35c818c752.jpeg"
+                    },
+                    "small": {
+                      "name": "small_los-flamencos.jpeg",
+                      "hash": "small_los_flamencos_35c818c752",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 281,
+                      "size": 28.63,
+                      "url": "/uploads/small_los_flamencos_35c818c752.jpeg"
+                    }
+                  },
+                  "hash": "los_flamencos_35c818c752",
+                  "ext": ".jpeg",
+                  "mime": "image/jpeg",
+                  "size": 30.46,
+                  "url": "/uploads/los_flamencos_35c818c752.jpeg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-06-11T20:37:46.361Z",
+                  "updatedAt": "2023-06-11T20:37:46.361Z"
+                }
+              }
+            ]
+          },
+          "routes": {
+            "data": []
+          },
+          "subcategories": {
+            "data": [
+              {
+                "id": 42,
+                "attributes": {
+                  "id_subcategory": "42",
+                  "uuid": "subcategory-42",
+                  "name": "Parques Naturales",
+                  "description": null,
+                  "deleted": false,
+                  "created": "2023-03-29T05:00:00.000Z",
+                  "updated": "2023-03-29T05:00:00.000Z",
+                  "createdAt": "2023-03-29T16:10:49.079Z",
+                  "updatedAt": "2023-03-29T16:11:02.204Z",
+                  "publishedAt": "2023-03-29T16:11:02.139Z",
+                  "locale": "es-CO",
+                  "data": null
+                }
+              }
+            ]
+          },
+          "seo": [],
+          "metasocial": [],
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 19,
+        "attributes": {
+          "id_point": "18",
+          "uuid": "sal-zipa",
+          "name": "Catedra de la Sal de Zipaquirá",
+          "description": null,
+          "location": {
+            "nombre": "Catedral de Sal de Zipaquirá",
+            "ubicacion": "Zipaquirá",
+            "descripcion": "Una catedral subterránea construida en una mina de sal, con impresionantes esculturas y capillas talladas en la roca de sal.",
+            "departamento": "Cundinamarca",
+            "clima": "Templado",
+            "longitud": -74.00991710405525,
+            "latitud": 5.018881685902707,
+            "icon": "/uploads/maravillas_c3545982d8.webp?updated_at=2023-03-28T21:41:04.557Z",
+            "type": "Lugar turistico"
+          },
+          "state": null,
+          "data": null,
+          "deleted": false,
+          "created": null,
+          "updated": null,
+          "tags": null,
+          "createdAt": "2023-03-27T17:49:53.904Z",
+          "updatedAt": "2023-06-11T20:40:52.537Z",
+          "publishedAt": "2023-03-27T17:49:59.624Z",
+          "locale": "es-CO",
+          "gMapsPoint": null,
+          "places": {
+            "data": [
+              {
+                "id": 4,
+                "attributes": {
+                  "id_place": "4",
+                  "uuid": "cundi",
+                  "type": "departamento cundinamarca",
+                  "name": "Cundinamarca",
+                  "description": null,
+                  "location": {
+                    "departamento": "Cundinamarca",
+                    "latitud": "4.673057",
+                    "longitud": "-74.075458"
+                  },
+                  "data": {
+                    "geoJSON": "/uploads/colombia_cundinamarca_24895e5b21.geojson"
+                  },
+                  "deleted": false,
+                  "created": null,
+                  "updated": null,
+                  "tags": null,
+                  "createdAt": "2023-03-27T17:16:12.666Z",
+                  "updatedAt": "2023-07-08T14:36:08.343Z",
+                  "publishedAt": "2023-03-27T17:16:15.116Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "media": {
+            "data": [
+              {
+                "id": 262,
+                "attributes": {
+                  "name": "catedra-de-sal.jpeg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 397,
+                  "height": 298,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_catedra-de-sal.jpeg",
+                      "hash": "thumbnail_catedra_de_sal_eb3ae3119b",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 208,
+                      "height": 156,
+                      "size": 8.78,
+                      "url": "/uploads/thumbnail_catedra_de_sal_eb3ae3119b.jpeg"
+                    }
+                  },
+                  "hash": "catedra_de_sal_eb3ae3119b",
+                  "ext": ".jpeg",
+                  "mime": "image/jpeg",
+                  "size": 33.75,
+                  "url": "/uploads/catedra_de_sal_eb3ae3119b.jpeg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-06-11T20:40:32.850Z",
+                  "updatedAt": "2023-06-11T20:40:32.850Z"
+                }
+              }
+            ]
+          },
+          "routes": {
+            "data": [
+              {
+                "id": 1,
+                "attributes": {
+                  "id_route": "1",
+                  "uuid": "bogota-medellin-route",
+                  "name": "Ruta Bogota - Medellin",
+                  "duration": null,
+                  "description": null,
+                  "distance": null,
+                  "data": {},
+                  "state": null,
+                  "created": null,
+                  "updated": null,
+                  "deleted": false,
+                  "tags": null,
+                  "createdAt": "2023-06-27T23:36:15.382Z",
+                  "updatedAt": "2023-06-28T01:18:53.429Z",
+                  "publishedAt": "2023-06-27T23:53:38.946Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "subcategories": {
+            "data": [
+              {
+                "id": 8,
+                "attributes": {
+                  "id_subcategory": "8",
+                  "uuid": "subcategory-8",
+                  "name": "Lugares turistico",
+                  "description": null,
+                  "deleted": false,
+                  "created": "2023-03-25T05:00:00.000Z",
+                  "updated": "2023-03-25T05:00:00.000Z",
+                  "createdAt": "2023-03-25T18:02:51.182Z",
+                  "updatedAt": "2023-07-05T23:03:50.518Z",
+                  "publishedAt": "2023-03-25T18:02:55.400Z",
+                  "locale": "es-CO",
+                  "data": null
+                }
+              }
+            ]
+          },
+          "seo": [],
+          "metasocial": [],
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 20,
+        "attributes": {
+          "id_point": "19",
+          "uuid": "chingaza-cundi",
+          "name": "Parque Nacional Natural Chingaza",
+          "description": null,
+          "location": {
+            "nombre": "Parque Nacional Natural Chingaza",
+            "ubicacion": "Guasca, La Calera, Junín, Fómeque",
+            "descripcion": "Un parque nacional que alberga páramos, lagunas y montañas, con una gran biodiversidad de fauna y flora.",
+            "departamento": "Cundinamarca",
+            "clima": "Frío",
+            "longitud": -73.72398134302064,
+            "latitud": 4.550555785659934,
+            "icon": "/uploads/parques_80a10883e6.webp?updated_at=2023-03-28T21:41:03.370Z",
+            "type": "Parque Natural"
+          },
+          "state": null,
+          "data": null,
+          "deleted": false,
+          "created": null,
+          "updated": null,
+          "tags": null,
+          "createdAt": "2023-03-27T17:50:49.195Z",
+          "updatedAt": "2023-06-13T20:58:13.551Z",
+          "publishedAt": "2023-03-27T17:50:53.350Z",
+          "locale": "es-CO",
+          "gMapsPoint": null,
+          "places": {
+            "data": [
+              {
+                "id": 4,
+                "attributes": {
+                  "id_place": "4",
+                  "uuid": "cundi",
+                  "type": "departamento cundinamarca",
+                  "name": "Cundinamarca",
+                  "description": null,
+                  "location": {
+                    "departamento": "Cundinamarca",
+                    "latitud": "4.673057",
+                    "longitud": "-74.075458"
+                  },
+                  "data": {
+                    "geoJSON": "/uploads/colombia_cundinamarca_24895e5b21.geojson"
+                  },
+                  "deleted": false,
+                  "created": null,
+                  "updated": null,
+                  "tags": null,
+                  "createdAt": "2023-03-27T17:16:12.666Z",
+                  "updatedAt": "2023-07-08T14:36:08.343Z",
+                  "publishedAt": "2023-03-27T17:16:15.116Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "media": {
+            "data": [
+              {
+                "id": 263,
+                "attributes": {
+                  "name": "chingaza-parque-cundinamarca.jpeg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 1536,
+                  "height": 1152,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_chingaza-parque-cundinamarca.jpeg",
+                      "hash": "thumbnail_chingaza_parque_cundinamarca_625f9c0aed",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 208,
+                      "height": 156,
+                      "size": 6.11,
+                      "url": "/uploads/thumbnail_chingaza_parque_cundinamarca_625f9c0aed.jpeg"
+                    },
+                    "small": {
+                      "name": "small_chingaza-parque-cundinamarca.jpeg",
+                      "hash": "small_chingaza_parque_cundinamarca_625f9c0aed",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 375,
+                      "size": 33.36,
+                      "url": "/uploads/small_chingaza_parque_cundinamarca_625f9c0aed.jpeg"
+                    },
+                    "medium": {
+                      "name": "medium_chingaza-parque-cundinamarca.jpeg",
+                      "hash": "medium_chingaza_parque_cundinamarca_625f9c0aed",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 750,
+                      "height": 563,
+                      "size": 80.17,
+                      "url": "/uploads/medium_chingaza_parque_cundinamarca_625f9c0aed.jpeg"
+                    },
+                    "large": {
+                      "name": "large_chingaza-parque-cundinamarca.jpeg",
+                      "hash": "large_chingaza_parque_cundinamarca_625f9c0aed",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 1000,
+                      "height": 750,
+                      "size": 146.07,
+                      "url": "/uploads/large_chingaza_parque_cundinamarca_625f9c0aed.jpeg"
+                    }
+                  },
+                  "hash": "chingaza_parque_cundinamarca_625f9c0aed",
+                  "ext": ".jpeg",
+                  "mime": "image/jpeg",
+                  "size": 350.11,
+                  "url": "/uploads/chingaza_parque_cundinamarca_625f9c0aed.jpeg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-06-11T20:44:47.641Z",
+                  "updatedAt": "2023-06-11T20:44:47.641Z"
+                }
+              }
+            ]
+          },
+          "routes": {
+            "data": []
+          },
+          "subcategories": {
+            "data": [
+              {
+                "id": 42,
+                "attributes": {
+                  "id_subcategory": "42",
+                  "uuid": "subcategory-42",
+                  "name": "Parques Naturales",
+                  "description": null,
+                  "deleted": false,
+                  "created": "2023-03-29T05:00:00.000Z",
+                  "updated": "2023-03-29T05:00:00.000Z",
+                  "createdAt": "2023-03-29T16:10:49.079Z",
+                  "updatedAt": "2023-03-29T16:11:02.204Z",
+                  "publishedAt": "2023-03-29T16:11:02.139Z",
+                  "locale": "es-CO",
+                  "data": null
+                }
+              }
+            ]
+          },
+          "seo": [],
+          "metasocial": [],
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 21,
+        "attributes": {
+          "id_point": "20",
+          "uuid": "villa-de-leyva",
+          "name": "Villa de Leyva Pueblo ",
+          "description": null,
+          "location": {
+            "nombre": "Villa de Leyva",
+            "ubicacion": "Villa de Leyva",
+            "descripcion": "Un pueblo colonial bien conservado, con calles empedradas, casas blancas y una hermosa plaza central rodeada de edificios históricos.",
+            "departamento": "Cundinamarca",
+            "clima": "Templado",
+            "longitud": -73.52659666411003,
+            "latitud": 5.6367018566014,
+            "icon": "/uploads/maravillas_c3545982d8.webp?updated_at=2023-03-28T21:41:04.557Z",
+            "type": "Lugar turistico"
+          },
+          "state": null,
+          "data": null,
+          "deleted": false,
+          "created": null,
+          "updated": null,
+          "tags": null,
+          "createdAt": "2023-03-27T17:52:49.505Z",
+          "updatedAt": "2023-06-11T21:01:04.937Z",
+          "publishedAt": "2023-03-27T17:52:51.797Z",
+          "locale": "es-CO",
+          "gMapsPoint": null,
+          "places": {
+            "data": [
+              {
+                "id": 4,
+                "attributes": {
+                  "id_place": "4",
+                  "uuid": "cundi",
+                  "type": "departamento cundinamarca",
+                  "name": "Cundinamarca",
+                  "description": null,
+                  "location": {
+                    "departamento": "Cundinamarca",
+                    "latitud": "4.673057",
+                    "longitud": "-74.075458"
+                  },
+                  "data": {
+                    "geoJSON": "/uploads/colombia_cundinamarca_24895e5b21.geojson"
+                  },
+                  "deleted": false,
+                  "created": null,
+                  "updated": null,
+                  "tags": null,
+                  "createdAt": "2023-03-27T17:16:12.666Z",
+                  "updatedAt": "2023-07-08T14:36:08.343Z",
+                  "publishedAt": "2023-03-27T17:16:15.116Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "media": {
+            "data": [
+              {
+                "id": 264,
+                "attributes": {
+                  "name": "villa-de-leyva.jpeg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 508,
+                  "height": 677,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_villa-de-leyva.jpeg",
+                      "hash": "thumbnail_villa_de_leyva_ef2cbc7f3a",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 117,
+                      "height": 156,
+                      "size": 5.37,
+                      "url": "/uploads/thumbnail_villa_de_leyva_ef2cbc7f3a.jpeg"
+                    },
+                    "small": {
+                      "name": "small_villa-de-leyva.jpeg",
+                      "hash": "small_villa_de_leyva_ef2cbc7f3a",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 375,
+                      "height": 500,
+                      "size": 46.74,
+                      "url": "/uploads/small_villa_de_leyva_ef2cbc7f3a.jpeg"
+                    }
+                  },
+                  "hash": "villa_de_leyva_ef2cbc7f3a",
+                  "ext": ".jpeg",
+                  "mime": "image/jpeg",
+                  "size": 79.18,
+                  "url": "/uploads/villa_de_leyva_ef2cbc7f3a.jpeg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-06-11T21:00:51.609Z",
+                  "updatedAt": "2023-06-11T21:00:51.609Z"
+                }
+              }
+            ]
+          },
+          "routes": {
+            "data": []
+          },
+          "subcategories": {
+            "data": [
+              {
+                "id": 8,
+                "attributes": {
+                  "id_subcategory": "8",
+                  "uuid": "subcategory-8",
+                  "name": "Lugares turistico",
+                  "description": null,
+                  "deleted": false,
+                  "created": "2023-03-25T05:00:00.000Z",
+                  "updated": "2023-03-25T05:00:00.000Z",
+                  "createdAt": "2023-03-25T18:02:51.182Z",
+                  "updatedAt": "2023-07-05T23:03:50.518Z",
+                  "publishedAt": "2023-03-25T18:02:55.400Z",
+                  "locale": "es-CO",
+                  "data": null
+                }
+              }
+            ]
+          },
+          "seo": [],
+          "metasocial": [],
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 22,
+        "attributes": {
+          "id_point": "21",
+          "uuid": "parque-sumapaz",
+          "name": "Parque Nacional Natural Sumapaz",
+          "description": null,
+          "location": {
+            "nombre": "Parque Nacional Natural Sumapaz",
+            "ubicacion": "Pasca, Arbeláez, Fusagasugá",
+            "descripcion": "El parque nacional más grande de Colombia, con una gran variedad de ecosistemas y una gran biodiversidad.",
+            "departamento": "Cundinamarca",
+            "clima": "Frío",
+            "longitud": -74.20934039992527,
+            "latitud": 4.289123292585592,
+            "icon": "/uploads/parques_80a10883e6.webp?updated_at=2023-03-28T21:41:03.370Z",
+            "type": "Parque Natural"
+          },
+          "state": null,
+          "data": null,
+          "deleted": false,
+          "created": null,
+          "updated": null,
+          "tags": null,
+          "createdAt": "2023-03-27T17:53:42.967Z",
+          "updatedAt": "2023-06-11T21:04:15.386Z",
+          "publishedAt": "2023-03-27T17:53:45.468Z",
+          "locale": "es-CO",
+          "gMapsPoint": null,
+          "places": {
+            "data": [
+              {
+                "id": 4,
+                "attributes": {
+                  "id_place": "4",
+                  "uuid": "cundi",
+                  "type": "departamento cundinamarca",
+                  "name": "Cundinamarca",
+                  "description": null,
+                  "location": {
+                    "departamento": "Cundinamarca",
+                    "latitud": "4.673057",
+                    "longitud": "-74.075458"
+                  },
+                  "data": {
+                    "geoJSON": "/uploads/colombia_cundinamarca_24895e5b21.geojson"
+                  },
+                  "deleted": false,
+                  "created": null,
+                  "updated": null,
+                  "tags": null,
+                  "createdAt": "2023-03-27T17:16:12.666Z",
+                  "updatedAt": "2023-07-08T14:36:08.343Z",
+                  "publishedAt": "2023-03-27T17:16:15.116Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "media": {
+            "data": [
+              {
+                "id": 265,
+                "attributes": {
+                  "name": "sumapaz-parque.jpeg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 434,
+                  "height": 290,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_sumapaz-parque.jpeg",
+                      "hash": "thumbnail_sumapaz_parque_8393f588f4",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 233,
+                      "height": 156,
+                      "size": 9.34,
+                      "url": "/uploads/thumbnail_sumapaz_parque_8393f588f4.jpeg"
+                    }
+                  },
+                  "hash": "sumapaz_parque_8393f588f4",
+                  "ext": ".jpeg",
+                  "mime": "image/jpeg",
+                  "size": 32.16,
+                  "url": "/uploads/sumapaz_parque_8393f588f4.jpeg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-06-11T21:03:58.242Z",
+                  "updatedAt": "2023-06-11T21:03:58.242Z"
+                }
+              }
+            ]
+          },
+          "routes": {
+            "data": []
+          },
+          "subcategories": {
+            "data": [
+              {
+                "id": 42,
+                "attributes": {
+                  "id_subcategory": "42",
+                  "uuid": "subcategory-42",
+                  "name": "Parques Naturales",
+                  "description": null,
+                  "deleted": false,
+                  "created": "2023-03-29T05:00:00.000Z",
+                  "updated": "2023-03-29T05:00:00.000Z",
+                  "createdAt": "2023-03-29T16:10:49.079Z",
+                  "updatedAt": "2023-03-29T16:11:02.204Z",
+                  "publishedAt": "2023-03-29T16:11:02.139Z",
+                  "locale": "es-CO",
+                  "data": null
+                }
+              }
+            ]
+          },
+          "seo": [],
+          "metasocial": [],
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 23,
+        "attributes": {
+          "id_point": "22",
+          "uuid": "embalse-tomine",
+          "name": "Embalse de Tominé",
+          "description": null,
+          "location": {
+            "nombre": "Embalse de Tominé",
+            "ubicacion": "Guatavita, Cundinamarca",
+            "descripcion": "Es un embalse que ofrece paisajes impresionantes y actividades acuáticas.",
+            "departamento": "Cundinamarca",
+            "clima": "Templado",
+            "latitud": 4.956051820039735,
+            "longitud": -73.83989709728117,
+            "icon": "/uploads/lagunas_5bf0fa2944.webp?updated_at=2023-03-28T21:41:04.532Z",
+            "type": "Laguna"
+          },
+          "state": " ",
+          "data": null,
+          "deleted": false,
+          "created": null,
+          "updated": null,
+          "tags": null,
+          "createdAt": "2023-03-27T17:54:52.954Z",
+          "updatedAt": "2023-06-11T21:07:16.330Z",
+          "publishedAt": "2023-03-27T17:55:06.497Z",
+          "locale": "es-CO",
+          "gMapsPoint": null,
+          "places": {
+            "data": [
+              {
+                "id": 4,
+                "attributes": {
+                  "id_place": "4",
+                  "uuid": "cundi",
+                  "type": "departamento cundinamarca",
+                  "name": "Cundinamarca",
+                  "description": null,
+                  "location": {
+                    "departamento": "Cundinamarca",
+                    "latitud": "4.673057",
+                    "longitud": "-74.075458"
+                  },
+                  "data": {
+                    "geoJSON": "/uploads/colombia_cundinamarca_24895e5b21.geojson"
+                  },
+                  "deleted": false,
+                  "created": null,
+                  "updated": null,
+                  "tags": null,
+                  "createdAt": "2023-03-27T17:16:12.666Z",
+                  "updatedAt": "2023-07-08T14:36:08.343Z",
+                  "publishedAt": "2023-03-27T17:16:15.116Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "media": {
+            "data": [
+              {
+                "id": 266,
+                "attributes": {
+                  "name": "embalse-tomine.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 1500,
+                  "height": 1085,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_embalse-tomine.jpg",
+                      "hash": "thumbnail_embalse_tomine_842c977239",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 216,
+                      "height": 156,
+                      "size": 8.27,
+                      "url": "/uploads/thumbnail_embalse_tomine_842c977239.jpg"
+                    },
+                    "small": {
+                      "name": "small_embalse-tomine.jpg",
+                      "hash": "small_embalse_tomine_842c977239",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 361,
+                      "size": 36.26,
+                      "url": "/uploads/small_embalse_tomine_842c977239.jpg"
+                    },
+                    "medium": {
+                      "name": "medium_embalse-tomine.jpg",
+                      "hash": "medium_embalse_tomine_842c977239",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 750,
+                      "height": 543,
+                      "size": 78.57,
+                      "url": "/uploads/medium_embalse_tomine_842c977239.jpg"
+                    },
+                    "large": {
+                      "name": "large_embalse-tomine.jpg",
+                      "hash": "large_embalse_tomine_842c977239",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 1000,
+                      "height": 723,
+                      "size": 140.67,
+                      "url": "/uploads/large_embalse_tomine_842c977239.jpg"
+                    }
+                  },
+                  "hash": "embalse_tomine_842c977239",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 315.31,
+                  "url": "/uploads/embalse_tomine_842c977239.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-06-11T21:06:57.325Z",
+                  "updatedAt": "2023-06-11T21:06:57.325Z"
+                }
+              }
+            ]
+          },
+          "routes": {
+            "data": [
+              {
+                "id": 1,
+                "attributes": {
+                  "id_route": "1",
+                  "uuid": "bogota-medellin-route",
+                  "name": "Ruta Bogota - Medellin",
+                  "duration": null,
+                  "description": null,
+                  "distance": null,
+                  "data": {},
+                  "state": null,
+                  "created": null,
+                  "updated": null,
+                  "deleted": false,
+                  "tags": null,
+                  "createdAt": "2023-06-27T23:36:15.382Z",
+                  "updatedAt": "2023-06-28T01:18:53.429Z",
+                  "publishedAt": "2023-06-27T23:53:38.946Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "subcategories": {
+            "data": [
+              {
+                "id": 35,
+                "attributes": {
+                  "id_subcategory": "35",
+                  "uuid": "subcategory-35",
+                  "name": "Lagunas",
+                  "description": null,
+                  "deleted": false,
+                  "created": "2023-03-29T05:00:00.000Z",
+                  "updated": "2023-03-29T05:00:00.000Z",
+                  "createdAt": "2023-03-29T16:02:19.754Z",
+                  "updatedAt": "2023-03-29T16:02:39.009Z",
+                  "publishedAt": "2023-03-29T16:02:38.944Z",
+                  "locale": "es-CO",
+                  "data": null
+                }
+              }
+            ]
+          },
+          "seo": [],
+          "metasocial": [],
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 24,
+        "attributes": {
+          "id_point": "23",
+          "uuid": "chorrera-cascada",
+          "name": "Cascada La Chorrera",
+          "description": null,
+          "location": {
+            "nombre": "Cascada La Chorrera",
+            "ubicacion": "Choachí, Cundinamarca",
+            "descripcion": "Es una cascada de 590 metros de altura y es la más alta de Colombia. Además, se puede hacer una caminata por el bosque hasta llegar a la cascada.",
+            "departamento": "Cundinamarca",
+            "clima": "Fresco",
+            "latitud": 4.598232939597824,
+            "longitud": -73.95953894632633,
+            "icon": "/uploads/maravillas_c3545982d8.webp?updated_at=2023-03-28T21:41:04.557Z",
+            "type": "Lugar turistico"
+          },
+          "state": null,
+          "data": null,
+          "deleted": false,
+          "created": null,
+          "updated": null,
+          "tags": null,
+          "createdAt": "2023-03-27T17:55:44.632Z",
+          "updatedAt": "2023-06-11T21:10:38.925Z",
+          "publishedAt": "2023-03-27T17:55:47.667Z",
+          "locale": "es-CO",
+          "gMapsPoint": null,
+          "places": {
+            "data": [
+              {
+                "id": 4,
+                "attributes": {
+                  "id_place": "4",
+                  "uuid": "cundi",
+                  "type": "departamento cundinamarca",
+                  "name": "Cundinamarca",
+                  "description": null,
+                  "location": {
+                    "departamento": "Cundinamarca",
+                    "latitud": "4.673057",
+                    "longitud": "-74.075458"
+                  },
+                  "data": {
+                    "geoJSON": "/uploads/colombia_cundinamarca_24895e5b21.geojson"
+                  },
+                  "deleted": false,
+                  "created": null,
+                  "updated": null,
+                  "tags": null,
+                  "createdAt": "2023-03-27T17:16:12.666Z",
+                  "updatedAt": "2023-07-08T14:36:08.343Z",
+                  "publishedAt": "2023-03-27T17:16:15.116Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "media": {
+            "data": [
+              {
+                "id": 267,
+                "attributes": {
+                  "name": "cascada-la-chorrera.jpeg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 304,
+                  "height": 406,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_cascada-la-chorrera.jpeg",
+                      "hash": "thumbnail_cascada_la_chorrera_85252497aa",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 117,
+                      "height": 156,
+                      "size": 5.86,
+                      "url": "/uploads/thumbnail_cascada_la_chorrera_85252497aa.jpeg"
+                    }
+                  },
+                  "hash": "cascada_la_chorrera_85252497aa",
+                  "ext": ".jpeg",
+                  "mime": "image/jpeg",
+                  "size": 37.02,
+                  "url": "/uploads/cascada_la_chorrera_85252497aa.jpeg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-06-11T21:10:20.063Z",
+                  "updatedAt": "2023-06-11T21:10:20.063Z"
+                }
+              }
+            ]
+          },
+          "routes": {
+            "data": []
+          },
+          "subcategories": {
+            "data": [
+              {
+                "id": 8,
+                "attributes": {
+                  "id_subcategory": "8",
+                  "uuid": "subcategory-8",
+                  "name": "Lugares turistico",
+                  "description": null,
+                  "deleted": false,
+                  "created": "2023-03-25T05:00:00.000Z",
+                  "updated": "2023-03-25T05:00:00.000Z",
+                  "createdAt": "2023-03-25T18:02:51.182Z",
+                  "updatedAt": "2023-07-05T23:03:50.518Z",
+                  "publishedAt": "2023-03-25T18:02:55.400Z",
+                  "locale": "es-CO",
+                  "data": null
+                }
+              }
+            ]
+          },
+          "seo": [],
+          "metasocial": [],
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 25,
+        "attributes": {
+          "id_point": "24",
+          "uuid": "guatavita-pueblo",
+          "name": "Pueblo de Guatavita",
+          "description": null,
+          "location": {
+            "nombre": "Pueblo de Guatavita",
+            "ubicacion": "Guatavita, Cundinamarca",
+            "descripcion": "Es un pueblo colonial con una arquitectura muy pintoresca y está rodeado por montañas.",
+            "departamento": "Cundinamarca",
+            "clima": "Templado",
+            "latitud": 4.934915037235421,
+            "longitud": -73.83385466503316,
+            "icon": "/uploads/maravillas_c3545982d8.webp?updated_at=2023-03-28T21:41:04.557Z",
+            "type": "Lugar turistico"
+          },
+          "state": " ",
+          "data": null,
+          "deleted": false,
+          "created": null,
+          "updated": null,
+          "tags": null,
+          "createdAt": "2023-03-27T17:57:22.779Z",
+          "updatedAt": "2023-06-13T16:41:35.167Z",
+          "publishedAt": "2023-03-27T17:58:43.312Z",
+          "locale": "es-CO",
+          "gMapsPoint": null,
+          "places": {
+            "data": [
+              {
+                "id": 4,
+                "attributes": {
+                  "id_place": "4",
+                  "uuid": "cundi",
+                  "type": "departamento cundinamarca",
+                  "name": "Cundinamarca",
+                  "description": null,
+                  "location": {
+                    "departamento": "Cundinamarca",
+                    "latitud": "4.673057",
+                    "longitud": "-74.075458"
+                  },
+                  "data": {
+                    "geoJSON": "/uploads/colombia_cundinamarca_24895e5b21.geojson"
+                  },
+                  "deleted": false,
+                  "created": null,
+                  "updated": null,
+                  "tags": null,
+                  "createdAt": "2023-03-27T17:16:12.666Z",
+                  "updatedAt": "2023-07-08T14:36:08.343Z",
+                  "publishedAt": "2023-03-27T17:16:15.116Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "media": {
+            "data": [
+              {
+                "id": 268,
+                "attributes": {
+                  "name": "pueblo-guatavita.jpeg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 512,
+                  "height": 288,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_pueblo-guatavita.jpeg",
+                      "hash": "thumbnail_pueblo_guatavita_f104d9d04d",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 245,
+                      "height": 138,
+                      "size": 12.13,
+                      "url": "/uploads/thumbnail_pueblo_guatavita_f104d9d04d.jpeg"
+                    },
+                    "small": {
+                      "name": "small_pueblo-guatavita.jpeg",
+                      "hash": "small_pueblo_guatavita_f104d9d04d",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 281,
+                      "size": 44.53,
+                      "url": "/uploads/small_pueblo_guatavita_f104d9d04d.jpeg"
+                    }
+                  },
+                  "hash": "pueblo_guatavita_f104d9d04d",
+                  "ext": ".jpeg",
+                  "mime": "image/jpeg",
+                  "size": 47.25,
+                  "url": "/uploads/pueblo_guatavita_f104d9d04d.jpeg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-06-13T16:41:25.889Z",
+                  "updatedAt": "2023-06-13T16:41:25.889Z"
+                }
+              }
+            ]
+          },
+          "routes": {
+            "data": []
+          },
+          "subcategories": {
+            "data": [
+              {
+                "id": 8,
+                "attributes": {
+                  "id_subcategory": "8",
+                  "uuid": "subcategory-8",
+                  "name": "Lugares turistico",
+                  "description": null,
+                  "deleted": false,
+                  "created": "2023-03-25T05:00:00.000Z",
+                  "updated": "2023-03-25T05:00:00.000Z",
+                  "createdAt": "2023-03-25T18:02:51.182Z",
+                  "updatedAt": "2023-07-05T23:03:50.518Z",
+                  "publishedAt": "2023-03-25T18:02:55.400Z",
+                  "locale": "es-CO",
+                  "data": null
+                }
+              }
+            ]
+          },
+          "seo": [],
+          "metasocial": [],
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 26,
+        "attributes": {
+          "id_point": "25",
+          "uuid": "jaime-duque",
+          "name": "Parque Jaime Duque",
+          "description": null,
+          "location": {
+            "nombre": "Parque Jaime Duque",
+            "ubicacion": "Tocancipá, Cundinamarca",
+            "descripcion": "Es un parque temático que cuenta con réplicas de los principales monumentos del mundo, así como atracciones mecánicas y zoológico.",
+            "departamento": "Cundinamarca",
+            "clima": "Templado",
+            "latitud": 4.952138066003688,
+            "longitud": -73.96360683544128,
+            "icon": "/uploads/parques_80a10883e6.webp?updated_at=2023-03-28T21:41:03.370Z",
+            "type": "Parque Natural"
+          },
+          "state": null,
+          "data": null,
+          "deleted": false,
+          "created": null,
+          "updated": null,
+          "tags": null,
+          "createdAt": "2023-03-27T17:58:11.507Z",
+          "updatedAt": "2023-06-13T16:44:33.976Z",
+          "publishedAt": "2023-03-27T17:58:27.673Z",
+          "locale": "es-CO",
+          "gMapsPoint": null,
+          "places": {
+            "data": [
+              {
+                "id": 4,
+                "attributes": {
+                  "id_place": "4",
+                  "uuid": "cundi",
+                  "type": "departamento cundinamarca",
+                  "name": "Cundinamarca",
+                  "description": null,
+                  "location": {
+                    "departamento": "Cundinamarca",
+                    "latitud": "4.673057",
+                    "longitud": "-74.075458"
+                  },
+                  "data": {
+                    "geoJSON": "/uploads/colombia_cundinamarca_24895e5b21.geojson"
+                  },
+                  "deleted": false,
+                  "created": null,
+                  "updated": null,
+                  "tags": null,
+                  "createdAt": "2023-03-27T17:16:12.666Z",
+                  "updatedAt": "2023-07-08T14:36:08.343Z",
+                  "publishedAt": "2023-03-27T17:16:15.116Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "media": {
+            "data": [
+              {
+                "id": 269,
+                "attributes": {
+                  "name": "parque-jaime-duque.jpeg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 408,
+                  "height": 306,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_parque-jaime-duque.jpeg",
+                      "hash": "thumbnail_parque_jaime_duque_0c07a648a8",
+                      "ext": ".jpeg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 208,
+                      "height": 156,
+                      "size": 5.97,
+                      "url": "/uploads/thumbnail_parque_jaime_duque_0c07a648a8.jpeg"
+                    }
+                  },
+                  "hash": "parque_jaime_duque_0c07a648a8",
+                  "ext": ".jpeg",
+                  "mime": "image/jpeg",
+                  "size": 18.62,
+                  "url": "/uploads/parque_jaime_duque_0c07a648a8.jpeg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-06-13T16:44:26.946Z",
+                  "updatedAt": "2023-06-13T16:44:26.946Z"
+                }
+              }
+            ]
+          },
+          "routes": {
+            "data": [
+              {
+                "id": 1,
+                "attributes": {
+                  "id_route": "1",
+                  "uuid": "bogota-medellin-route",
+                  "name": "Ruta Bogota - Medellin",
+                  "duration": null,
+                  "description": null,
+                  "distance": null,
+                  "data": {},
+                  "state": null,
+                  "created": null,
+                  "updated": null,
+                  "deleted": false,
+                  "tags": null,
+                  "createdAt": "2023-06-27T23:36:15.382Z",
+                  "updatedAt": "2023-06-28T01:18:53.429Z",
+                  "publishedAt": "2023-06-27T23:53:38.946Z",
+                  "locale": "es-CO"
+                }
+              }
+            ]
+          },
+          "subcategories": {
+            "data": [
+              {
+                "id": 42,
+                "attributes": {
+                  "id_subcategory": "42",
+                  "uuid": "subcategory-42",
+                  "name": "Parques Naturales",
+                  "description": null,
+                  "deleted": false,
+                  "created": "2023-03-29T05:00:00.000Z",
+                  "updated": "2023-03-29T05:00:00.000Z",
+                  "createdAt": "2023-03-29T16:10:49.079Z",
+                  "updatedAt": "2023-03-29T16:11:02.204Z",
+                  "publishedAt": "2023-03-29T16:11:02.139Z",
+                  "locale": "es-CO",
+                  "data": null
+                }
+              }
+            ]
+          },
+          "seo": [],
+          "metasocial": [],
+          "localizations": {
+            "data": []
+          }
+        }
+      }
+    ],
+    "meta": {
+      "pagination": {
+        "page": 1,
+        "pageSize": 25,
+        "pageCount": 2,
+        "total": 34
+      }
+    }
+  }
